@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ForasKhadra.API</RootNamespace>
+    <UserSecretsId>354d37b5-6b9b-49a4-aa75-71a839283456</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Copy the data file to the output folder so DataService can read it at runtime -->
+    <None Update="Data\foras_khadra_data.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

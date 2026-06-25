@@ -1,0 +1,49 @@
+@{
+    ViewData["Title"] = "المساعد الذكي";
+    ViewData["Active"] = "chat";
+}
+
+<header class="page-head">
+    <div>
+        <p class="eyebrow">قارن بين النماذج</p>
+        <h1>المساعد الذكي للفريق</h1>
+    </div>
+</header>
+
+<section class="card chat-card">
+    <div class="chat-toolbar">
+        <label class="field">
+            <span>النموذج</span>
+            <select id="providerSelect"></select>
+        </label>
+        <label class="toggle">
+            <input type="checkbox" id="compareToggle" />
+            <span>قارن كل النماذج</span>
+        </label>
+    </div>
+
+    <div class="chat-log" id="chatLog">
+        <div class="msg msg-bot">
+            <div class="bubble">
+                أهلًا 👋 اسألني عن أداء المنشورات أو اتجاهات التفاعل. فعّل "قارن كل
+                النماذج" لإرسال نفس السؤال لكل واجهة مزوّدة بمفتاح ورؤية أيها أفضل وأسرع.
+            </div>
+        </div>
+    </div>
+
+    <div class="suggestions" id="suggestions">
+        <button class="chip">أي نوع فرص يحقق أعلى تفاعل؟</button>
+        <button class="chip">متى الأفضل لنشر المنح؟</button>
+        <button class="chip">عمَّ يسأل المتابعون كثيرًا؟</button>
+        <button class="chip">اقترح تعليقًا لمنحة دراسية جديدة</button>
+    </div>
+
+    <form class="chat-input" id="chatForm" autocomplete="off">
+        <input type="text" id="chatText" placeholder="اكتب سؤالك للفريق…" />
+        <button type="submit" id="sendBtn">إرسال</button>
+    </form>
+</section>
+
+@section Scripts {
+    <script src="~/js/chat.js" asp-append-version="true"></script>
+}

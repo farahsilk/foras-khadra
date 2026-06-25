@@ -1,0 +1,6553 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "title": "فرصة تطوع في مجال البيئة",
+      "type": "منح دراسية",
+      "countries": "مصر",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال البيئة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/1",
+      "posted_date": "4 ديسمبر 2025",
+      "deadline": "22 ديسمبر 2026",
+      "views": 18270
+    },
+    {
+      "id": 2,
+      "title": "منحة الزراعة في فلسطين",
+      "type": "مسابقات",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال الزراعة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/2",
+      "posted_date": "17 أبريل 2025",
+      "deadline": "20 يناير 2026",
+      "views": 18790
+    },
+    {
+      "id": 3,
+      "title": "مؤتمر المياه السنوي",
+      "type": "زمالات",
+      "countries": "لبنان",
+      "status": "متاح التقديم",
+      "description": "فرصة Fellowship في مجال المياه متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/3",
+      "posted_date": "25 يناير 2026",
+      "deadline": "26 مارس 2026",
+      "views": 23276
+    },
+    {
+      "id": 4,
+      "title": "زمالة الصحة العامة الدولية",
+      "type": "تطوع",
+      "countries": "تونس",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال الصحة العامة متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/4",
+      "posted_date": "3 فبراير 2026",
+      "deadline": "13 فبراير 2026",
+      "views": 12163
+    },
+    {
+      "id": 5,
+      "title": "فرصة تطوع في مجال الصحة العامة",
+      "type": "مؤتمرات",
+      "countries": "العراق",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال الصحة العامة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/5",
+      "posted_date": "4 سبتمبر 2026",
+      "deadline": "13 فبراير 2026",
+      "views": 18489
+    },
+    {
+      "id": 6,
+      "title": "وظيفة التعليم عن بُعد",
+      "type": "تدريب",
+      "countries": "العراق",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال التعليم متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/6",
+      "posted_date": "22 يناير 2025",
+      "deadline": "8 مايو 2026",
+      "views": 3014
+    },
+    {
+      "id": 7,
+      "title": "مؤتمر التكنولوجيا السنوي",
+      "type": "مؤتمرات",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال التكنولوجيا متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/7",
+      "posted_date": "12 مارس 2026",
+      "deadline": "12 أبريل 2026",
+      "views": 22360
+    },
+    {
+      "id": 8,
+      "title": "زمالة المياه الدولية",
+      "type": "تدريب",
+      "countries": "السودان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال المياه متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/8",
+      "posted_date": "15 مارس 2025",
+      "deadline": "13 مايو 2026",
+      "views": 21371
+    },
+    {
+      "id": 9,
+      "title": "وظيفة حقوق الإنسان عن بُعد",
+      "type": "منح دراسية",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال حقوق الإنسان متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/9",
+      "posted_date": "27 أبريل 2025",
+      "deadline": "2 يونيو 2026",
+      "views": 13545
+    },
+    {
+      "id": 10,
+      "title": "وظيفة البيئة عن بُعد",
+      "type": "تدريب",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال البيئة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/10",
+      "posted_date": "21 يوليو 2026",
+      "deadline": "15 مارس 2026",
+      "views": 9079
+    },
+    {
+      "id": 11,
+      "title": "فرصة تطوع في مجال التكنولوجيا",
+      "type": "زمالات",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال التكنولوجيا متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/11",
+      "posted_date": "13 أكتوبر 2026",
+      "deadline": "12 أبريل 2026",
+      "views": 4932
+    },
+    {
+      "id": 12,
+      "title": "منحة الذكاء الاصطناعي في السودان",
+      "type": "وظائف",
+      "countries": "السودان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/12",
+      "posted_date": "6 نوفمبر 2025",
+      "deadline": "26 نوفمبر 2026",
+      "views": 14233
+    },
+    {
+      "id": 13,
+      "title": "مؤتمر البيئة السنوي",
+      "type": "وظائف",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال البيئة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/13",
+      "posted_date": "9 سبتمبر 2026",
+      "deadline": "18 يناير 2026",
+      "views": 22691
+    },
+    {
+      "id": 14,
+      "title": "فرصة تطوع في مجال البيئة",
+      "type": "منح دراسية",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال البيئة متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/14",
+      "posted_date": "10 فبراير 2026",
+      "deadline": "14 مارس 2026",
+      "views": 15267
+    },
+    {
+      "id": 15,
+      "title": "زمالة المياه الدولية",
+      "type": "مسابقات",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال المياه متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/15",
+      "posted_date": "10 نوفمبر 2025",
+      "deadline": "27 نوفمبر 2026",
+      "views": 17035
+    },
+    {
+      "id": 16,
+      "title": "وظيفة التكنولوجيا عن بُعد",
+      "type": "وظائف",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال التكنولوجيا متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/16",
+      "posted_date": "11 أكتوبر 2025",
+      "deadline": "16 يناير 2026",
+      "views": 4065
+    },
+    {
+      "id": 17,
+      "title": "منحة الإعلام في المغرب",
+      "type": "تدريب",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الإعلام متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/17",
+      "posted_date": "24 فبراير 2025",
+      "deadline": "16 فبراير 2026",
+      "views": 25323
+    },
+    {
+      "id": 18,
+      "title": "منحة ممولة بالكامل لدراسة ريادة الأعمال",
+      "type": "وظائف",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال ريادة الأعمال متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/18",
+      "posted_date": "17 مايو 2025",
+      "deadline": "28 أكتوبر 2026",
+      "views": 14265
+    },
+    {
+      "id": 19,
+      "title": "فرصة تطوع في مجال حقوق الإنسان",
+      "type": "زمالات",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Fellowship في مجال حقوق الإنسان متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/19",
+      "posted_date": "17 أغسطس 2026",
+      "deadline": "15 فبراير 2026",
+      "views": 8523
+    },
+    {
+      "id": 20,
+      "title": "منحة البيئة في الجزائر",
+      "type": "زمالات",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال البيئة متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/20",
+      "posted_date": "8 أكتوبر 2025",
+      "deadline": "1 فبراير 2026",
+      "views": 23594
+    },
+    {
+      "id": 21,
+      "title": "برنامج تدريب الطاقة المتجددة",
+      "type": "منح دراسية",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال الطاقة المتجددة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/21",
+      "posted_date": "17 فبراير 2026",
+      "deadline": "8 مايو 2026",
+      "views": 22321
+    },
+    {
+      "id": 22,
+      "title": "زمالة التكنولوجيا الدولية",
+      "type": "تطوع",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال التكنولوجيا متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/22",
+      "posted_date": "26 أبريل 2026",
+      "deadline": "16 يوليو 2026",
+      "views": 6639
+    },
+    {
+      "id": 23,
+      "title": "وظيفة البيئة عن بُعد",
+      "type": "مسابقات",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال البيئة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/23",
+      "posted_date": "2 ديسمبر 2026",
+      "deadline": "22 نوفمبر 2026",
+      "views": 21574
+    },
+    {
+      "id": 24,
+      "title": "وظيفة الطاقة المتجددة عن بُعد",
+      "type": "مسابقات",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال الطاقة المتجددة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/24",
+      "posted_date": "7 أبريل 2025",
+      "deadline": "7 سبتمبر 2026",
+      "views": 15100
+    },
+    {
+      "id": 25,
+      "title": "فرصة تطوع في مجال التنمية المستدامة",
+      "type": "زمالات",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال التنمية المستدامة متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/25",
+      "posted_date": "26 أغسطس 2025",
+      "deadline": "28 سبتمبر 2026",
+      "views": 3608
+    },
+    {
+      "id": 26,
+      "title": "منحة التعليم في لبنان",
+      "type": "مسابقات",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال التعليم متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/26",
+      "posted_date": "14 مارس 2025",
+      "deadline": "16 أغسطس 2026",
+      "views": 7404
+    },
+    {
+      "id": 27,
+      "title": "زمالة التنمية المستدامة الدولية",
+      "type": "مؤتمرات",
+      "countries": "مصر",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال التنمية المستدامة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/27",
+      "posted_date": "26 مايو 2026",
+      "deadline": "26 أغسطس 2026",
+      "views": 9747
+    },
+    {
+      "id": 28,
+      "title": "منحة ممولة بالكامل لدراسة المياه",
+      "type": "تطوع",
+      "countries": "لبنان",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال المياه متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/28",
+      "posted_date": "2 أبريل 2026",
+      "deadline": "19 ديسمبر 2026",
+      "views": 18166
+    },
+    {
+      "id": 29,
+      "title": "منحة المياه في الجزائر",
+      "type": "مسابقات",
+      "countries": "الجزائر",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال المياه متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/29",
+      "posted_date": "28 سبتمبر 2026",
+      "deadline": "17 مارس 2026",
+      "views": 2263
+    },
+    {
+      "id": 30,
+      "title": "برنامج تدريب البيئة",
+      "type": "وظائف",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال البيئة متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/30",
+      "posted_date": "4 يوليو 2025",
+      "deadline": "19 أبريل 2026",
+      "views": 19370
+    },
+    {
+      "id": 31,
+      "title": "برنامج تدريب الطاقة المتجددة",
+      "type": "وظائف",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال الطاقة المتجددة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/31",
+      "posted_date": "7 مايو 2026",
+      "deadline": "22 ديسمبر 2026",
+      "views": 10695
+    },
+    {
+      "id": 32,
+      "title": "زمالة الإعلام الدولية",
+      "type": "زمالات",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال الإعلام متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/32",
+      "posted_date": "11 أغسطس 2026",
+      "deadline": "25 فبراير 2026",
+      "views": 705
+    },
+    {
+      "id": 33,
+      "title": "برنامج تدريب الزراعة",
+      "type": "تطوع",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال الزراعة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/33",
+      "posted_date": "9 سبتمبر 2025",
+      "deadline": "5 يونيو 2026",
+      "views": 2654
+    },
+    {
+      "id": 34,
+      "title": "زمالة الصحة العامة الدولية",
+      "type": "زمالات",
+      "countries": "تونس",
+      "status": "متاح التقديم",
+      "description": "فرصة Fellowship في مجال الصحة العامة متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/34",
+      "posted_date": "26 أكتوبر 2026",
+      "deadline": "21 سبتمبر 2026",
+      "views": 656
+    },
+    {
+      "id": 35,
+      "title": "برنامج تدريب حقوق الإنسان",
+      "type": "منح دراسية",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال حقوق الإنسان متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/35",
+      "posted_date": "4 مايو 2025",
+      "deadline": "4 ديسمبر 2026",
+      "views": 18528
+    },
+    {
+      "id": 36,
+      "title": "مسابقة الإعلام للشباب",
+      "type": "زمالات",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال الإعلام متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/36",
+      "posted_date": "21 نوفمبر 2025",
+      "deadline": "28 مايو 2026",
+      "views": 16961
+    },
+    {
+      "id": 37,
+      "title": "برنامج تدريب الإعلام",
+      "type": "تطوع",
+      "countries": "مصر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال الإعلام متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/37",
+      "posted_date": "1 يناير 2026",
+      "deadline": "11 مارس 2026",
+      "views": 21276
+    },
+    {
+      "id": 38,
+      "title": "مؤتمر ريادة الأعمال السنوي",
+      "type": "تدريب",
+      "countries": "جميع الدول",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال ريادة الأعمال متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/38",
+      "posted_date": "23 فبراير 2025",
+      "deadline": "5 سبتمبر 2026",
+      "views": 1580
+    },
+    {
+      "id": 39,
+      "title": "زمالة الصحة العامة الدولية",
+      "type": "مؤتمرات",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال الصحة العامة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/39",
+      "posted_date": "12 مايو 2025",
+      "deadline": "26 يناير 2026",
+      "views": 12124
+    },
+    {
+      "id": 40,
+      "title": "برنامج تدريب التعليم",
+      "type": "زمالات",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Fellowship في مجال التعليم متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/40",
+      "posted_date": "24 أكتوبر 2026",
+      "deadline": "5 أبريل 2026",
+      "views": 5724
+    },
+    {
+      "id": 41,
+      "title": "منحة ريادة الأعمال في فلسطين",
+      "type": "مؤتمرات",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال ريادة الأعمال متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/41",
+      "posted_date": "26 يوليو 2026",
+      "deadline": "22 ديسمبر 2026",
+      "views": 26966
+    },
+    {
+      "id": 42,
+      "title": "برنامج تدريب الإعلام",
+      "type": "زمالات",
+      "countries": "الأردن",
+      "status": "متاح التقديم",
+      "description": "فرصة Fellowship في مجال الإعلام متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/42",
+      "posted_date": "8 أغسطس 2025",
+      "deadline": "7 أغسطس 2026",
+      "views": 11857
+    },
+    {
+      "id": 43,
+      "title": "منحة التكنولوجيا في المغرب",
+      "type": "تدريب",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال التكنولوجيا متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/43",
+      "posted_date": "9 يونيو 2026",
+      "deadline": "28 فبراير 2026",
+      "views": 25740
+    },
+    {
+      "id": 44,
+      "title": "مؤتمر الصحة العامة السنوي",
+      "type": "تدريب",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال الصحة العامة متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/44",
+      "posted_date": "4 يناير 2026",
+      "deadline": "9 مارس 2026",
+      "views": 19424
+    },
+    {
+      "id": 45,
+      "title": "مؤتمر الطاقة المتجددة السنوي",
+      "type": "تدريب",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الطاقة المتجددة متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/45",
+      "posted_date": "20 يوليو 2026",
+      "deadline": "17 فبراير 2026",
+      "views": 13022
+    },
+    {
+      "id": 46,
+      "title": "منحة التكنولوجيا في تونس",
+      "type": "وظائف",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال التكنولوجيا متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/46",
+      "posted_date": "26 سبتمبر 2025",
+      "deadline": "18 نوفمبر 2026",
+      "views": 23974
+    },
+    {
+      "id": 47,
+      "title": "وظيفة المياه عن بُعد",
+      "type": "منح دراسية",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال المياه متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/47",
+      "posted_date": "11 أكتوبر 2026",
+      "deadline": "22 فبراير 2026",
+      "views": 23984
+    },
+    {
+      "id": 48,
+      "title": "مؤتمر حقوق الإنسان السنوي",
+      "type": "تدريب",
+      "countries": "تونس",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال حقوق الإنسان متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/48",
+      "posted_date": "5 سبتمبر 2026",
+      "deadline": "7 يوليو 2026",
+      "views": 22188
+    },
+    {
+      "id": 49,
+      "title": "فرصة تطوع في مجال التعليم",
+      "type": "تطوع",
+      "countries": "الأردن",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال التعليم متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/49",
+      "posted_date": "10 مايو 2025",
+      "deadline": "7 يوليو 2026",
+      "views": 26147
+    },
+    {
+      "id": 50,
+      "title": "منحة ممولة بالكامل لدراسة الزراعة",
+      "type": "وظائف",
+      "countries": "الجزائر",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال الزراعة متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/50",
+      "posted_date": "16 سبتمبر 2025",
+      "deadline": "26 ديسمبر 2026",
+      "views": 5960
+    },
+    {
+      "id": 51,
+      "title": "وظيفة البيئة عن بُعد",
+      "type": "منح دراسية",
+      "countries": "تونس",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال البيئة متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/51",
+      "posted_date": "10 نوفمبر 2025",
+      "deadline": "8 أبريل 2026",
+      "views": 5228
+    },
+    {
+      "id": 52,
+      "title": "منحة ممولة بالكامل لدراسة الطاقة المتجددة",
+      "type": "مسابقات",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال الطاقة المتجددة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/52",
+      "posted_date": "14 أغسطس 2025",
+      "deadline": "21 أكتوبر 2026",
+      "views": 6771
+    },
+    {
+      "id": 53,
+      "title": "منحة ممولة بالكامل لدراسة المياه",
+      "type": "منح دراسية",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال المياه متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/53",
+      "posted_date": "23 نوفمبر 2025",
+      "deadline": "1 فبراير 2026",
+      "views": 25907
+    },
+    {
+      "id": 54,
+      "title": "منحة ممولة بالكامل لدراسة التكنولوجيا",
+      "type": "تطوع",
+      "countries": "الأردن",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال التكنولوجيا متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/54",
+      "posted_date": "15 فبراير 2025",
+      "deadline": "5 أغسطس 2026",
+      "views": 22275
+    },
+    {
+      "id": 55,
+      "title": "وظيفة حقوق الإنسان عن بُعد",
+      "type": "وظائف",
+      "countries": "العراق",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال حقوق الإنسان متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/55",
+      "posted_date": "27 أكتوبر 2026",
+      "deadline": "24 سبتمبر 2026",
+      "views": 14383
+    },
+    {
+      "id": 56,
+      "title": "زمالة حقوق الإنسان الدولية",
+      "type": "مؤتمرات",
+      "countries": "جميع الدول",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال حقوق الإنسان متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/56",
+      "posted_date": "9 أغسطس 2026",
+      "deadline": "25 أبريل 2026",
+      "views": 27920
+    },
+    {
+      "id": 57,
+      "title": "منحة ممولة بالكامل لدراسة الإعلام",
+      "type": "منح دراسية",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال الإعلام متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/57",
+      "posted_date": "3 أغسطس 2026",
+      "deadline": "23 مايو 2026",
+      "views": 8083
+    },
+    {
+      "id": 58,
+      "title": "برنامج تدريب الصحة العامة",
+      "type": "تدريب",
+      "countries": "الجزائر",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الصحة العامة متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/58",
+      "posted_date": "23 يوليو 2025",
+      "deadline": "5 ديسمبر 2026",
+      "views": 7410
+    },
+    {
+      "id": 59,
+      "title": "وظيفة التنمية المستدامة عن بُعد",
+      "type": "مسابقات",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال التنمية المستدامة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/59",
+      "posted_date": "7 يناير 2026",
+      "deadline": "27 يوليو 2026",
+      "views": 13162
+    },
+    {
+      "id": 60,
+      "title": "مؤتمر الزراعة السنوي",
+      "type": "مؤتمرات",
+      "countries": "مصر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال الزراعة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/60",
+      "posted_date": "25 مايو 2026",
+      "deadline": "13 يوليو 2026",
+      "views": 18036
+    },
+    {
+      "id": 61,
+      "title": "مسابقة المياه للشباب",
+      "type": "منح دراسية",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال المياه متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/61",
+      "posted_date": "16 يوليو 2026",
+      "deadline": "1 يوليو 2026",
+      "views": 11414
+    },
+    {
+      "id": 62,
+      "title": "زمالة التعليم الدولية",
+      "type": "منح دراسية",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال التعليم متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/62",
+      "posted_date": "18 أكتوبر 2025",
+      "deadline": "1 يوليو 2026",
+      "views": 19795
+    },
+    {
+      "id": 63,
+      "title": "برنامج تدريب التعليم",
+      "type": "وظائف",
+      "countries": "مصر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال التعليم متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/63",
+      "posted_date": "6 أغسطس 2025",
+      "deadline": "2 مايو 2026",
+      "views": 12822
+    },
+    {
+      "id": 64,
+      "title": "وظيفة التكنولوجيا عن بُعد",
+      "type": "تدريب",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال التكنولوجيا متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/64",
+      "posted_date": "25 مايو 2026",
+      "deadline": "27 يوليو 2026",
+      "views": 8666
+    },
+    {
+      "id": 65,
+      "title": "منحة البيئة في جميع الدول",
+      "type": "مؤتمرات",
+      "countries": "جميع الدول",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال البيئة متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/65",
+      "posted_date": "8 يونيو 2025",
+      "deadline": "21 فبراير 2026",
+      "views": 25999
+    },
+    {
+      "id": 66,
+      "title": "مسابقة الطاقة المتجددة للشباب",
+      "type": "منح دراسية",
+      "countries": "مصر",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال الطاقة المتجددة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/66",
+      "posted_date": "5 أكتوبر 2025",
+      "deadline": "8 مارس 2026",
+      "views": 15917
+    },
+    {
+      "id": 67,
+      "title": "مسابقة البيئة للشباب",
+      "type": "منح دراسية",
+      "countries": "العراق",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال البيئة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/67",
+      "posted_date": "6 يونيو 2026",
+      "deadline": "20 أكتوبر 2026",
+      "views": 24908
+    },
+    {
+      "id": 68,
+      "title": "فرصة تطوع في مجال البيئة",
+      "type": "منح دراسية",
+      "countries": "الأردن",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال البيئة متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/68",
+      "posted_date": "19 مايو 2025",
+      "deadline": "22 يوليو 2026",
+      "views": 13397
+    },
+    {
+      "id": 69,
+      "title": "مسابقة التكنولوجيا للشباب",
+      "type": "منح دراسية",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال التكنولوجيا متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/69",
+      "posted_date": "20 نوفمبر 2026",
+      "deadline": "26 فبراير 2026",
+      "views": 26490
+    },
+    {
+      "id": 70,
+      "title": "مؤتمر الطاقة المتجددة السنوي",
+      "type": "وظائف",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال الطاقة المتجددة متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/70",
+      "posted_date": "21 سبتمبر 2025",
+      "deadline": "11 يناير 2026",
+      "views": 14164
+    },
+    {
+      "id": 71,
+      "title": "مؤتمر الذكاء الاصطناعي السنوي",
+      "type": "مؤتمرات",
+      "countries": "السودان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/71",
+      "posted_date": "5 ديسمبر 2026",
+      "deadline": "14 مارس 2026",
+      "views": 24445
+    },
+    {
+      "id": 72,
+      "title": "منحة ممولة بالكامل لدراسة التعليم",
+      "type": "وظائف",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال التعليم متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/72",
+      "posted_date": "28 يونيو 2026",
+      "deadline": "8 فبراير 2026",
+      "views": 9539
+    },
+    {
+      "id": 73,
+      "title": "مؤتمر التكنولوجيا السنوي",
+      "type": "تطوع",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال التكنولوجيا متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/73",
+      "posted_date": "6 يونيو 2026",
+      "deadline": "16 أبريل 2026",
+      "views": 12026
+    },
+    {
+      "id": 74,
+      "title": "فرصة تطوع في مجال الإعلام",
+      "type": "مؤتمرات",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال الإعلام متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/74",
+      "posted_date": "1 سبتمبر 2026",
+      "deadline": "17 أبريل 2026",
+      "views": 3205
+    },
+    {
+      "id": 75,
+      "title": "منحة ممولة بالكامل لدراسة المياه",
+      "type": "زمالات",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال المياه متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/75",
+      "posted_date": "16 ديسمبر 2025",
+      "deadline": "21 ديسمبر 2026",
+      "views": 16483
+    },
+    {
+      "id": 76,
+      "title": "فرصة تطوع في مجال الطاقة المتجددة",
+      "type": "تطوع",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال الطاقة المتجددة متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/76",
+      "posted_date": "22 مايو 2025",
+      "deadline": "19 يونيو 2026",
+      "views": 15907
+    },
+    {
+      "id": 77,
+      "title": "مؤتمر حقوق الإنسان السنوي",
+      "type": "وظائف",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال حقوق الإنسان متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/77",
+      "posted_date": "23 يونيو 2026",
+      "deadline": "15 مايو 2026",
+      "views": 10447
+    },
+    {
+      "id": 78,
+      "title": "مسابقة التكنولوجيا للشباب",
+      "type": "تدريب",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال التكنولوجيا متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/78",
+      "posted_date": "7 أبريل 2025",
+      "deadline": "24 أغسطس 2026",
+      "views": 9460
+    },
+    {
+      "id": 79,
+      "title": "فرصة تطوع في مجال الزراعة",
+      "type": "منح دراسية",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال الزراعة متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/79",
+      "posted_date": "8 مايو 2025",
+      "deadline": "12 مارس 2026",
+      "views": 10304
+    },
+    {
+      "id": 80,
+      "title": "زمالة المياه الدولية",
+      "type": "مسابقات",
+      "countries": "لبنان",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال المياه متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/80",
+      "posted_date": "10 سبتمبر 2025",
+      "deadline": "23 مارس 2026",
+      "views": 21301
+    },
+    {
+      "id": 81,
+      "title": "منحة الذكاء الاصطناعي في السودان",
+      "type": "مؤتمرات",
+      "countries": "السودان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/81",
+      "posted_date": "15 أغسطس 2026",
+      "deadline": "11 مارس 2026",
+      "views": 2083
+    },
+    {
+      "id": 82,
+      "title": "برنامج تدريب الذكاء الاصطناعي",
+      "type": "تدريب",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/82",
+      "posted_date": "21 أكتوبر 2025",
+      "deadline": "22 يناير 2026",
+      "views": 5371
+    },
+    {
+      "id": 83,
+      "title": "برنامج تدريب الزراعة",
+      "type": "زمالات",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال الزراعة متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/83",
+      "posted_date": "25 سبتمبر 2025",
+      "deadline": "14 أكتوبر 2026",
+      "views": 19933
+    },
+    {
+      "id": 84,
+      "title": "مؤتمر الزراعة السنوي",
+      "type": "مؤتمرات",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال الزراعة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/84",
+      "posted_date": "28 مايو 2026",
+      "deadline": "19 يوليو 2026",
+      "views": 10406
+    },
+    {
+      "id": 85,
+      "title": "برنامج تدريب الزراعة",
+      "type": "وظائف",
+      "countries": "مصر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال الزراعة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/85",
+      "posted_date": "7 نوفمبر 2025",
+      "deadline": "9 نوفمبر 2026",
+      "views": 3060
+    },
+    {
+      "id": 86,
+      "title": "برنامج تدريب التكنولوجيا",
+      "type": "زمالات",
+      "countries": "الأردن",
+      "status": "متاح التقديم",
+      "description": "فرصة Fellowship في مجال التكنولوجيا متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/86",
+      "posted_date": "23 أغسطس 2026",
+      "deadline": "20 أغسطس 2026",
+      "views": 9943
+    },
+    {
+      "id": 87,
+      "title": "فرصة تطوع في مجال التكنولوجيا",
+      "type": "مسابقات",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال التكنولوجيا متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/87",
+      "posted_date": "22 فبراير 2026",
+      "deadline": "8 مايو 2026",
+      "views": 26215
+    },
+    {
+      "id": 88,
+      "title": "مسابقة التعليم للشباب",
+      "type": "مؤتمرات",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال التعليم متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/88",
+      "posted_date": "5 نوفمبر 2025",
+      "deadline": "9 مارس 2026",
+      "views": 2739
+    },
+    {
+      "id": 89,
+      "title": "فرصة تطوع في مجال ريادة الأعمال",
+      "type": "مسابقات",
+      "countries": "تونس",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال ريادة الأعمال متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/89",
+      "posted_date": "10 ديسمبر 2026",
+      "deadline": "23 يوليو 2026",
+      "views": 9320
+    },
+    {
+      "id": 90,
+      "title": "منحة ممولة بالكامل لدراسة حقوق الإنسان",
+      "type": "وظائف",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال حقوق الإنسان متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/90",
+      "posted_date": "24 يوليو 2025",
+      "deadline": "11 أكتوبر 2026",
+      "views": 8604
+    },
+    {
+      "id": 91,
+      "title": "منحة البيئة في المغرب",
+      "type": "مسابقات",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال البيئة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/91",
+      "posted_date": "2 أكتوبر 2026",
+      "deadline": "25 مارس 2026",
+      "views": 15817
+    },
+    {
+      "id": 92,
+      "title": "فرصة تطوع في مجال التعليم",
+      "type": "وظائف",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال التعليم متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/92",
+      "posted_date": "27 نوفمبر 2026",
+      "deadline": "16 فبراير 2026",
+      "views": 15801
+    },
+    {
+      "id": 93,
+      "title": "وظيفة التنمية المستدامة عن بُعد",
+      "type": "تدريب",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال التنمية المستدامة متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/93",
+      "posted_date": "14 يونيو 2025",
+      "deadline": "23 أغسطس 2026",
+      "views": 9844
+    },
+    {
+      "id": 94,
+      "title": "منحة التنمية المستدامة في لبنان",
+      "type": "منح دراسية",
+      "countries": "لبنان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال التنمية المستدامة متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/94",
+      "posted_date": "11 مايو 2026",
+      "deadline": "4 يوليو 2026",
+      "views": 17262
+    },
+    {
+      "id": 95,
+      "title": "منحة ممولة بالكامل لدراسة الطاقة المتجددة",
+      "type": "مؤتمرات",
+      "countries": "لبنان",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال الطاقة المتجددة متاحة للمتقدمين من لبنان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/95",
+      "posted_date": "12 سبتمبر 2025",
+      "deadline": "20 أغسطس 2026",
+      "views": 20893
+    },
+    {
+      "id": 96,
+      "title": "فرصة تطوع في مجال الطاقة المتجددة",
+      "type": "تطوع",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال الطاقة المتجددة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/96",
+      "posted_date": "23 أغسطس 2026",
+      "deadline": "16 فبراير 2026",
+      "views": 1345
+    },
+    {
+      "id": 97,
+      "title": "زمالة الزراعة الدولية",
+      "type": "منح دراسية",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال الزراعة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/97",
+      "posted_date": "14 سبتمبر 2025",
+      "deadline": "3 أبريل 2026",
+      "views": 27971
+    },
+    {
+      "id": 98,
+      "title": "زمالة الذكاء الاصطناعي الدولية",
+      "type": "مسابقات",
+      "countries": "السودان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Competition في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/98",
+      "posted_date": "23 سبتمبر 2026",
+      "deadline": "9 يوليو 2026",
+      "views": 27752
+    },
+    {
+      "id": 99,
+      "title": "منحة ممولة بالكامل لدراسة الذكاء الاصطناعي",
+      "type": "تطوع",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال الذكاء الاصطناعي متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/99",
+      "posted_date": "20 أبريل 2026",
+      "deadline": "17 ديسمبر 2026",
+      "views": 4873
+    },
+    {
+      "id": 100,
+      "title": "مؤتمر البيئة السنوي",
+      "type": "مؤتمرات",
+      "countries": "تونس",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال البيئة متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/100",
+      "posted_date": "10 يناير 2026",
+      "deadline": "24 مايو 2026",
+      "views": 27842
+    },
+    {
+      "id": 101,
+      "title": "زمالة الزراعة الدولية",
+      "type": "وظائف",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال الزراعة متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/101",
+      "posted_date": "11 يونيو 2026",
+      "deadline": "18 سبتمبر 2026",
+      "views": 12760
+    },
+    {
+      "id": 102,
+      "title": "مسابقة الصحة العامة للشباب",
+      "type": "تطوع",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال الصحة العامة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/102",
+      "posted_date": "2 يوليو 2025",
+      "deadline": "11 ديسمبر 2026",
+      "views": 15898
+    },
+    {
+      "id": 103,
+      "title": "زمالة التنمية المستدامة الدولية",
+      "type": "منح دراسية",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال التنمية المستدامة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/103",
+      "posted_date": "17 مارس 2025",
+      "deadline": "19 يونيو 2026",
+      "views": 3688
+    },
+    {
+      "id": 104,
+      "title": "منحة ممولة بالكامل لدراسة الذكاء الاصطناعي",
+      "type": "مؤتمرات",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/104",
+      "posted_date": "28 يوليو 2025",
+      "deadline": "21 مارس 2026",
+      "views": 2851
+    },
+    {
+      "id": 105,
+      "title": "مؤتمر الإعلام السنوي",
+      "type": "تطوع",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال الإعلام متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/105",
+      "posted_date": "28 نوفمبر 2026",
+      "deadline": "18 يوليو 2026",
+      "views": 10776
+    },
+    {
+      "id": 106,
+      "title": "منحة المياه في جميع الدول",
+      "type": "منح دراسية",
+      "countries": "جميع الدول",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال المياه متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/106",
+      "posted_date": "22 نوفمبر 2025",
+      "deadline": "10 أبريل 2026",
+      "views": 24870
+    },
+    {
+      "id": 107,
+      "title": "برنامج تدريب التنمية المستدامة",
+      "type": "مسابقات",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال التنمية المستدامة متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/107",
+      "posted_date": "2 يناير 2026",
+      "deadline": "11 يناير 2026",
+      "views": 10013
+    },
+    {
+      "id": 108,
+      "title": "زمالة الصحة العامة الدولية",
+      "type": "تدريب",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الصحة العامة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/108",
+      "posted_date": "22 أكتوبر 2026",
+      "deadline": "26 مارس 2026",
+      "views": 5970
+    },
+    {
+      "id": 109,
+      "title": "مؤتمر البيئة السنوي",
+      "type": "زمالات",
+      "countries": "العراق",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال البيئة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/109",
+      "posted_date": "19 أغسطس 2025",
+      "deadline": "5 أبريل 2026",
+      "views": 15510
+    },
+    {
+      "id": 110,
+      "title": "فرصة تطوع في مجال الإعلام",
+      "type": "منح دراسية",
+      "countries": "جميع الدول",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال الإعلام متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/110",
+      "posted_date": "22 مايو 2026",
+      "deadline": "18 مارس 2026",
+      "views": 2820
+    },
+    {
+      "id": 111,
+      "title": "فرصة تطوع في مجال الصحة العامة",
+      "type": "تطوع",
+      "countries": "العراق",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Volunteering في مجال الصحة العامة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/111",
+      "posted_date": "9 ديسمبر 2026",
+      "deadline": "15 مايو 2026",
+      "views": 6927
+    },
+    {
+      "id": 112,
+      "title": "مسابقة الذكاء الاصطناعي للشباب",
+      "type": "تطوع",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال الذكاء الاصطناعي متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/112",
+      "posted_date": "10 أكتوبر 2026",
+      "deadline": "23 مايو 2026",
+      "views": 1118
+    },
+    {
+      "id": 113,
+      "title": "فرصة تطوع في مجال التعليم",
+      "type": "مؤتمرات",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال التعليم متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/113",
+      "posted_date": "24 أكتوبر 2025",
+      "deadline": "16 مايو 2026",
+      "views": 25819
+    },
+    {
+      "id": 114,
+      "title": "وظيفة التكنولوجيا عن بُعد",
+      "type": "مؤتمرات",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال التكنولوجيا متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/114",
+      "posted_date": "9 أكتوبر 2025",
+      "deadline": "22 ديسمبر 2026",
+      "views": 25548
+    },
+    {
+      "id": 115,
+      "title": "برنامج تدريب التعليم",
+      "type": "منح دراسية",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال التعليم متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/115",
+      "posted_date": "26 مايو 2025",
+      "deadline": "15 يناير 2026",
+      "views": 19391
+    },
+    {
+      "id": 116,
+      "title": "برنامج تدريب المياه",
+      "type": "تدريب",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال المياه متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/116",
+      "posted_date": "14 ديسمبر 2026",
+      "deadline": "6 أبريل 2026",
+      "views": 4730
+    },
+    {
+      "id": 117,
+      "title": "فرصة تطوع في مجال حقوق الإنسان",
+      "type": "مؤتمرات",
+      "countries": "الجزائر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال حقوق الإنسان متاحة للمتقدمين من الجزائر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/117",
+      "posted_date": "26 أغسطس 2026",
+      "deadline": "10 ديسمبر 2026",
+      "views": 11499
+    },
+    {
+      "id": 118,
+      "title": "برنامج تدريب البيئة",
+      "type": "مؤتمرات",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال البيئة متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/118",
+      "posted_date": "24 نوفمبر 2025",
+      "deadline": "22 يوليو 2026",
+      "views": 26764
+    },
+    {
+      "id": 119,
+      "title": "مؤتمر الصحة العامة السنوي",
+      "type": "وظائف",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال الصحة العامة متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/119",
+      "posted_date": "12 أغسطس 2025",
+      "deadline": "22 ديسمبر 2026",
+      "views": 22431
+    },
+    {
+      "id": 120,
+      "title": "وظيفة الزراعة عن بُعد",
+      "type": "تدريب",
+      "countries": "فلسطين",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الزراعة متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/120",
+      "posted_date": "1 أغسطس 2025",
+      "deadline": "20 سبتمبر 2026",
+      "views": 11148
+    },
+    {
+      "id": 121,
+      "title": "منحة ممولة بالكامل لدراسة التكنولوجيا",
+      "type": "وظائف",
+      "countries": "السودان",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Job في مجال التكنولوجيا متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/121",
+      "posted_date": "14 نوفمبر 2026",
+      "deadline": "4 مارس 2026",
+      "views": 1885
+    },
+    {
+      "id": 122,
+      "title": "برنامج تدريب الإعلام",
+      "type": "مسابقات",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال الإعلام متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/122",
+      "posted_date": "15 يوليو 2025",
+      "deadline": "12 نوفمبر 2026",
+      "views": 24751
+    },
+    {
+      "id": 123,
+      "title": "زمالة حقوق الإنسان الدولية",
+      "type": "منح دراسية",
+      "countries": "فلسطين",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال حقوق الإنسان متاحة للمتقدمين من فلسطين. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/123",
+      "posted_date": "20 أغسطس 2025",
+      "deadline": "14 مايو 2026",
+      "views": 1472
+    },
+    {
+      "id": 124,
+      "title": "منحة ممولة بالكامل لدراسة الصحة العامة",
+      "type": "منح دراسية",
+      "countries": "المغرب",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال الصحة العامة متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/124",
+      "posted_date": "4 يونيو 2025",
+      "deadline": "22 يونيو 2026",
+      "views": 18241
+    },
+    {
+      "id": 125,
+      "title": "مؤتمر الصحة العامة السنوي",
+      "type": "منح دراسية",
+      "countries": "مصر",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال الصحة العامة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/125",
+      "posted_date": "3 أغسطس 2025",
+      "deadline": "22 أبريل 2026",
+      "views": 21427
+    },
+    {
+      "id": 126,
+      "title": "منحة الزراعة في مصر",
+      "type": "منح دراسية",
+      "countries": "مصر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Scholarship في مجال الزراعة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/126",
+      "posted_date": "26 مارس 2025",
+      "deadline": "19 أبريل 2026",
+      "views": 2648
+    },
+    {
+      "id": 127,
+      "title": "مسابقة حقوق الإنسان للشباب",
+      "type": "مؤتمرات",
+      "countries": "المغرب",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Conference في مجال حقوق الإنسان متاحة للمتقدمين من المغرب. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/127",
+      "posted_date": "25 يونيو 2025",
+      "deadline": "5 أكتوبر 2026",
+      "views": 492
+    },
+    {
+      "id": 128,
+      "title": "فرصة تطوع في مجال ريادة الأعمال",
+      "type": "تدريب",
+      "countries": "الأردن",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال ريادة الأعمال متاحة للمتقدمين من الأردن. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/128",
+      "posted_date": "28 نوفمبر 2025",
+      "deadline": "1 مارس 2026",
+      "views": 886
+    },
+    {
+      "id": 129,
+      "title": "وظيفة التكنولوجيا عن بُعد",
+      "type": "تدريب",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال التكنولوجيا متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/129",
+      "posted_date": "5 يناير 2026",
+      "deadline": "24 يوليو 2026",
+      "views": 17638
+    },
+    {
+      "id": 130,
+      "title": "منحة ممولة بالكامل لدراسة المياه",
+      "type": "مسابقات",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال المياه متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/130",
+      "posted_date": "19 سبتمبر 2026",
+      "deadline": "4 أغسطس 2026",
+      "views": 16909
+    },
+    {
+      "id": 131,
+      "title": "فرصة تطوع في مجال الزراعة",
+      "type": "زمالات",
+      "countries": "مصر",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Fellowship في مجال الزراعة متاحة للمتقدمين من مصر. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/131",
+      "posted_date": "16 يناير 2025",
+      "deadline": "28 يوليو 2026",
+      "views": 14368
+    },
+    {
+      "id": 132,
+      "title": "منحة ممولة بالكامل لدراسة البيئة",
+      "type": "منح دراسية",
+      "countries": "جميع الدول",
+      "status": "متاح التقديم",
+      "description": "فرصة Scholarship في مجال البيئة متاحة للمتقدمين من جميع الدول. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/132",
+      "posted_date": "20 يونيو 2025",
+      "deadline": "5 فبراير 2026",
+      "views": 4535
+    },
+    {
+      "id": 133,
+      "title": "وظيفة الزراعة عن بُعد",
+      "type": "تدريب",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال الزراعة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/133",
+      "posted_date": "17 أغسطس 2026",
+      "deadline": "20 يوليو 2026",
+      "views": 3649
+    },
+    {
+      "id": 134,
+      "title": "مسابقة المياه للشباب",
+      "type": "مؤتمرات",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Conference في مجال المياه متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/134",
+      "posted_date": "11 يوليو 2025",
+      "deadline": "27 أغسطس 2026",
+      "views": 13465
+    },
+    {
+      "id": 135,
+      "title": "وظيفة المياه عن بُعد",
+      "type": "تطوع",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Volunteering في مجال المياه متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/135",
+      "posted_date": "5 يونيو 2026",
+      "deadline": "22 أغسطس 2026",
+      "views": 2599
+    },
+    {
+      "id": 136,
+      "title": "مؤتمر البيئة السنوي",
+      "type": "مسابقات",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Competition في مجال البيئة متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/136",
+      "posted_date": "18 مارس 2026",
+      "deadline": "2 أكتوبر 2026",
+      "views": 18802
+    },
+    {
+      "id": 137,
+      "title": "مؤتمر الصحة العامة السنوي",
+      "type": "وظائف",
+      "countries": "السودان",
+      "status": "متاح التقديم",
+      "description": "فرصة Job في مجال الصحة العامة متاحة للمتقدمين من السودان. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/137",
+      "posted_date": "2 ديسمبر 2026",
+      "deadline": "10 أكتوبر 2026",
+      "views": 10638
+    },
+    {
+      "id": 138,
+      "title": "مسابقة البيئة للشباب",
+      "type": "تدريب",
+      "countries": "العراق",
+      "status": "متاح التقديم",
+      "description": "فرصة Internship في مجال البيئة متاحة للمتقدمين من العراق. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/138",
+      "posted_date": "28 أبريل 2026",
+      "deadline": "4 يونيو 2026",
+      "views": 18627
+    },
+    {
+      "id": 139,
+      "title": "مسابقة البيئة للشباب",
+      "type": "تدريب",
+      "countries": "تونس",
+      "status": "انتهت فترة التقديم",
+      "description": "فرصة Internship في مجال البيئة متاحة للمتقدمين من تونس. تشمل دعمًا وتدريبًا.",
+      "url": "https://foraskhadra.com/Opportunity/Details/139",
+      "posted_date": "22 أكتوبر 2025",
+      "deadline": "27 ديسمبر 2026",
+      "views": 9163
+    }
+  ],
+  "social_posts": [
+    {
+      "id": 1,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر البيئة السنوي — رابط التقديم في البايو",
+      "date": "2025-12-21",
+      "likes": 2685,
+      "comments": 136,
+      "shares": 316,
+      "saves": 273,
+      "reach": 38818,
+      "engagement_rate": 8.78,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 2,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-03-25",
+      "likes": 1445,
+      "comments": 94,
+      "shares": 117,
+      "saves": 279,
+      "reach": 31197,
+      "engagement_rate": 6.2,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 3,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: وظيفة التنمية المستدامة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-05-22",
+      "likes": 4459,
+      "comments": 359,
+      "shares": 592,
+      "saves": 734,
+      "reach": 89761,
+      "engagement_rate": 6.84,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما الحد الأدنى للعمر؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 4,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة الإعلام الدولية — رابط التقديم في البايو",
+      "date": "2025-06-04",
+      "likes": 317,
+      "comments": 37,
+      "shares": 19,
+      "saves": 51,
+      "reach": 8952,
+      "engagement_rate": 4.74,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 5,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2026-07-01",
+      "likes": 755,
+      "comments": 55,
+      "shares": 72,
+      "saves": 202,
+      "reach": 26028,
+      "engagement_rate": 4.16,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 6,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: زمالة الزراعة الدولية — رابط التقديم في البايو",
+      "date": "2026-12-12",
+      "likes": 3775,
+      "comments": 317,
+      "shares": 407,
+      "saves": 836,
+      "reach": 78156,
+      "engagement_rate": 6.83,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 7,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مسابقة الصحة العامة للشباب — رابط التقديم في البايو",
+      "date": "2026-02-17",
+      "likes": 3679,
+      "comments": 266,
+      "shares": 475,
+      "saves": 710,
+      "reach": 60104,
+      "engagement_rate": 8.54,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "فرصة رائعة، شكرًا لكم",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 8,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة الإعلام الدولية — رابط التقديم في البايو",
+      "date": "2025-03-20",
+      "likes": 2175,
+      "comments": 251,
+      "shares": 389,
+      "saves": 313,
+      "reach": 48793,
+      "engagement_rate": 6.41,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 9,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: وظيفة ريادة الأعمال عن بُعد — رابط التقديم في البايو",
+      "date": "2026-02-16",
+      "likes": 4656,
+      "comments": 444,
+      "shares": 940,
+      "saves": 1092,
+      "reach": 85306,
+      "engagement_rate": 8.36,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 10,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال البيئة — رابط التقديم في البايو",
+      "date": "2026-10-20",
+      "likes": 462,
+      "comments": 12,
+      "shares": 65,
+      "saves": 51,
+      "reach": 10362,
+      "engagement_rate": 5.69,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "ما الحد الأدنى للعمر؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 11,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة الطاقة المتجددة الدولية — رابط التقديم في البايو",
+      "date": "2026-02-26",
+      "likes": 431,
+      "comments": 43,
+      "shares": 77,
+      "saves": 84,
+      "reach": 8376,
+      "engagement_rate": 7.58,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 12,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة الصحة العامة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-07-14",
+      "likes": 582,
+      "comments": 52,
+      "shares": 144,
+      "saves": 149,
+      "reach": 25617,
+      "engagement_rate": 3.62,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 13,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال المياه — رابط التقديم في البايو",
+      "date": "2026-03-11",
+      "likes": 5596,
+      "comments": 148,
+      "shares": 385,
+      "saves": 1698,
+      "reach": 85691,
+      "engagement_rate": 9.13,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 14,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-11-26",
+      "likes": 2037,
+      "comments": 174,
+      "shares": 371,
+      "saves": 282,
+      "reach": 48851,
+      "engagement_rate": 5.86,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 15,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة التكنولوجيا الدولية — رابط التقديم في البايو",
+      "date": "2026-08-07",
+      "likes": 1910,
+      "comments": 166,
+      "shares": 289,
+      "saves": 201,
+      "reach": 71995,
+      "engagement_rate": 3.56,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 16,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: وظيفة الزراعة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-10-13",
+      "likes": 3304,
+      "comments": 99,
+      "shares": 674,
+      "saves": 1158,
+      "reach": 41770,
+      "engagement_rate": 12.53,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 17,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الزراعة — رابط التقديم في البايو",
+      "date": "2025-12-26",
+      "likes": 6504,
+      "comments": 237,
+      "shares": 894,
+      "saves": 1452,
+      "reach": 84885,
+      "engagement_rate": 10.71,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 18,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الإعلام — رابط التقديم في البايو",
+      "date": "2026-09-17",
+      "likes": 5369,
+      "comments": 211,
+      "shares": 996,
+      "saves": 1455,
+      "reach": 64474,
+      "engagement_rate": 12.46,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 19,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال البيئة — رابط التقديم في البايو",
+      "date": "2025-05-15",
+      "likes": 846,
+      "comments": 57,
+      "shares": 105,
+      "saves": 321,
+      "reach": 35768,
+      "engagement_rate": 3.72,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل يوجد شرط لغة؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 20,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مسابقة التنمية المستدامة للشباب — رابط التقديم في البايو",
+      "date": "2026-06-08",
+      "likes": 5089,
+      "comments": 575,
+      "shares": 676,
+      "saves": 1114,
+      "reach": 62130,
+      "engagement_rate": 12.0,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 21,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة المياه الدولية — رابط التقديم في البايو",
+      "date": "2026-08-20",
+      "likes": 3833,
+      "comments": 132,
+      "shares": 221,
+      "saves": 1438,
+      "reach": 88191,
+      "engagement_rate": 6.38,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 22,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التكنولوجيا — رابط التقديم في البايو",
+      "date": "2025-02-02",
+      "likes": 2452,
+      "comments": 183,
+      "shares": 479,
+      "saves": 633,
+      "reach": 31266,
+      "engagement_rate": 11.98,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 23,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مسابقة المياه للشباب — رابط التقديم في البايو",
+      "date": "2025-05-14",
+      "likes": 4400,
+      "comments": 136,
+      "shares": 1016,
+      "saves": 1227,
+      "reach": 84633,
+      "engagement_rate": 8.01,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 24,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة التنمية المستدامة في جميع الدول — رابط التقديم في البايو",
+      "date": "2025-01-21",
+      "likes": 3824,
+      "comments": 330,
+      "shares": 256,
+      "saves": 1500,
+      "reach": 77798,
+      "engagement_rate": 7.6,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 25,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة الطاقة المتجددة الدولية — رابط التقديم في البايو",
+      "date": "2026-09-11",
+      "likes": 3745,
+      "comments": 204,
+      "shares": 736,
+      "saves": 1080,
+      "reach": 49805,
+      "engagement_rate": 11.58,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 26,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التكنولوجيا — رابط التقديم في البايو",
+      "date": "2025-04-02",
+      "likes": 2810,
+      "comments": 94,
+      "shares": 542,
+      "saves": 1076,
+      "reach": 85802,
+      "engagement_rate": 5.27,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 27,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: وظيفة الإعلام عن بُعد — رابط التقديم في البايو",
+      "date": "2025-06-14",
+      "likes": 3941,
+      "comments": 93,
+      "shares": 706,
+      "saves": 732,
+      "reach": 74176,
+      "engagement_rate": 7.38,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 28,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: مؤتمر البيئة السنوي — رابط التقديم في البايو",
+      "date": "2025-10-27",
+      "likes": 1504,
+      "comments": 104,
+      "shares": 353,
+      "saves": 384,
+      "reach": 27486,
+      "engagement_rate": 8.53,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 29,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة المياه الدولية — رابط التقديم في البايو",
+      "date": "2026-06-15",
+      "likes": 421,
+      "comments": 36,
+      "shares": 46,
+      "saves": 118,
+      "reach": 16447,
+      "engagement_rate": 3.78,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 30,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2026-01-05",
+      "likes": 2353,
+      "comments": 277,
+      "shares": 563,
+      "saves": 288,
+      "reach": 60008,
+      "engagement_rate": 5.8,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما الحد الأدنى للعمر؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 31,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الصحة العامة — رابط التقديم في البايو",
+      "date": "2025-08-25",
+      "likes": 2527,
+      "comments": 143,
+      "shares": 319,
+      "saves": 682,
+      "reach": 33932,
+      "engagement_rate": 10.82,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 32,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-09-04",
+      "likes": 2445,
+      "comments": 207,
+      "shares": 244,
+      "saves": 327,
+      "reach": 51096,
+      "engagement_rate": 6.31,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 33,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2025-02-26",
+      "likes": 2772,
+      "comments": 332,
+      "shares": 249,
+      "saves": 390,
+      "reach": 40431,
+      "engagement_rate": 9.26,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 34,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2025-02-07",
+      "likes": 4351,
+      "comments": 474,
+      "shares": 958,
+      "saves": 1364,
+      "reach": 75089,
+      "engagement_rate": 9.52,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 35,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الإعلام — رابط التقديم في البايو",
+      "date": "2025-12-24",
+      "likes": 2956,
+      "comments": 168,
+      "shares": 622,
+      "saves": 784,
+      "reach": 50303,
+      "engagement_rate": 9.01,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 36,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة حقوق الإنسان الدولية — رابط التقديم في البايو",
+      "date": "2026-03-25",
+      "likes": 1971,
+      "comments": 231,
+      "shares": 351,
+      "saves": 463,
+      "reach": 78353,
+      "engagement_rate": 3.85,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 37,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2025-02-09",
+      "likes": 802,
+      "comments": 57,
+      "shares": 88,
+      "saves": 119,
+      "reach": 10263,
+      "engagement_rate": 10.39,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 38,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة التعليم الدولية — رابط التقديم في البايو",
+      "date": "2025-12-20",
+      "likes": 1237,
+      "comments": 100,
+      "shares": 84,
+      "saves": 361,
+      "reach": 19406,
+      "engagement_rate": 9.18,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 39,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة الذكاء الاصطناعي في لبنان — رابط التقديم في البايو",
+      "date": "2026-05-21",
+      "likes": 773,
+      "comments": 75,
+      "shares": 79,
+      "saves": 126,
+      "reach": 8958,
+      "engagement_rate": 11.75,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 40,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة الصحة العامة للشباب — رابط التقديم في البايو",
+      "date": "2026-03-11",
+      "likes": 2172,
+      "comments": 193,
+      "shares": 177,
+      "saves": 488,
+      "reach": 41985,
+      "engagement_rate": 7.22,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "ما المستندات المطلوبة؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 41,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مسابقة ريادة الأعمال للشباب — رابط التقديم في البايو",
+      "date": "2026-01-10",
+      "likes": 2890,
+      "comments": 88,
+      "shares": 284,
+      "saves": 395,
+      "reach": 51567,
+      "engagement_rate": 7.09,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 42,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-08-10",
+      "likes": 1841,
+      "comments": 208,
+      "shares": 357,
+      "saves": 288,
+      "reach": 23932,
+      "engagement_rate": 11.26,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 43,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الإعلام — رابط التقديم في البايو",
+      "date": "2026-01-28",
+      "likes": 5516,
+      "comments": 228,
+      "shares": 665,
+      "saves": 635,
+      "reach": 62930,
+      "engagement_rate": 11.19,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 44,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2025-02-13",
+      "likes": 3742,
+      "comments": 211,
+      "shares": 486,
+      "saves": 1014,
+      "reach": 50943,
+      "engagement_rate": 10.7,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "فرصة رائعة، شكرًا لكم",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 45,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة ريادة الأعمال عن بُعد — رابط التقديم في البايو",
+      "date": "2026-10-17",
+      "likes": 2352,
+      "comments": 276,
+      "shares": 302,
+      "saves": 796,
+      "reach": 83090,
+      "engagement_rate": 4.48,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 46,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: وظيفة الزراعة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-03-13",
+      "likes": 1466,
+      "comments": 147,
+      "shares": 225,
+      "saves": 212,
+      "reach": 20961,
+      "engagement_rate": 9.78,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل تشمل تذاكر الطيران؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 47,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: وظيفة التعليم عن بُعد — رابط التقديم في البايو",
+      "date": "2026-07-19",
+      "likes": 3997,
+      "comments": 363,
+      "shares": 439,
+      "saves": 1377,
+      "reach": 69809,
+      "engagement_rate": 8.85,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 48,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة الزراعة في جميع الدول — رابط التقديم في البايو",
+      "date": "2025-03-17",
+      "likes": 2516,
+      "comments": 215,
+      "shares": 614,
+      "saves": 688,
+      "reach": 65205,
+      "engagement_rate": 6.19,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل تقبل الخريجين الجدد؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 49,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مؤتمر ريادة الأعمال السنوي — رابط التقديم في البايو",
+      "date": "2026-12-07",
+      "likes": 771,
+      "comments": 88,
+      "shares": 55,
+      "saves": 81,
+      "reach": 34745,
+      "engagement_rate": 2.86,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 50,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2026-08-18",
+      "likes": 774,
+      "comments": 55,
+      "shares": 125,
+      "saves": 309,
+      "reach": 11163,
+      "engagement_rate": 11.31,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 51,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التكنولوجيا — رابط التقديم في البايو",
+      "date": "2026-05-23",
+      "likes": 6658,
+      "comments": 309,
+      "shares": 977,
+      "saves": 2577,
+      "reach": 87319,
+      "engagement_rate": 12.05,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 52,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الزراعة — رابط التقديم في البايو",
+      "date": "2026-07-13",
+      "likes": 2387,
+      "comments": 181,
+      "shares": 565,
+      "saves": 755,
+      "reach": 44555,
+      "engagement_rate": 8.73,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 53,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-03-04",
+      "likes": 591,
+      "comments": 37,
+      "shares": 59,
+      "saves": 144,
+      "reach": 13358,
+      "engagement_rate": 6.22,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل تقبل الخريجين الجدد؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 54,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التعليم — رابط التقديم في البايو",
+      "date": "2026-01-18",
+      "likes": 2599,
+      "comments": 112,
+      "shares": 182,
+      "saves": 517,
+      "reach": 72604,
+      "engagement_rate": 4.7,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 55,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التعليم — رابط التقديم في البايو",
+      "date": "2025-04-18",
+      "likes": 4297,
+      "comments": 410,
+      "shares": 461,
+      "saves": 797,
+      "reach": 65580,
+      "engagement_rate": 9.1,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل المنحة ممولة بالكامل؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 56,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2025-05-19",
+      "likes": 2223,
+      "comments": 52,
+      "shares": 482,
+      "saves": 747,
+      "reach": 26040,
+      "engagement_rate": 13.46,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "كيف أقدّم؟ شكرًا",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 57,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مسابقة البيئة للشباب — رابط التقديم في البايو",
+      "date": "2026-03-24",
+      "likes": 4207,
+      "comments": 458,
+      "shares": 323,
+      "saves": 1057,
+      "reach": 74211,
+      "engagement_rate": 8.15,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 58,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التنمية المستدامة السنوي — رابط التقديم في البايو",
+      "date": "2025-06-03",
+      "likes": 346,
+      "comments": 34,
+      "shares": 56,
+      "saves": 113,
+      "reach": 4846,
+      "engagement_rate": 11.33,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 59,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: وظيفة الإعلام عن بُعد — رابط التقديم في البايو",
+      "date": "2026-12-19",
+      "likes": 2797,
+      "comments": 125,
+      "shares": 285,
+      "saves": 477,
+      "reach": 65580,
+      "engagement_rate": 5.62,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 60,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التعليم — رابط التقديم في البايو",
+      "date": "2026-06-20",
+      "likes": 827,
+      "comments": 26,
+      "shares": 92,
+      "saves": 183,
+      "reach": 33972,
+      "engagement_rate": 3.32,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 61,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة التكنولوجيا للشباب — رابط التقديم في البايو",
+      "date": "2026-02-17",
+      "likes": 1196,
+      "comments": 142,
+      "shares": 149,
+      "saves": 371,
+      "reach": 23078,
+      "engagement_rate": 8.05,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 62,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2025-08-04",
+      "likes": 430,
+      "comments": 32,
+      "shares": 64,
+      "saves": 116,
+      "reach": 17707,
+      "engagement_rate": 3.63,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "هل تقبل الخريجين الجدد؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 63,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة التعليم — رابط التقديم في البايو",
+      "date": "2025-12-01",
+      "likes": 4702,
+      "comments": 307,
+      "shares": 717,
+      "saves": 1114,
+      "reach": 61390,
+      "engagement_rate": 11.14,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 64,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2025-05-14",
+      "likes": 1978,
+      "comments": 123,
+      "shares": 375,
+      "saves": 518,
+      "reach": 78800,
+      "engagement_rate": 3.8,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 65,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مؤتمر البيئة السنوي — رابط التقديم في البايو",
+      "date": "2026-03-21",
+      "likes": 7666,
+      "comments": 440,
+      "shares": 1749,
+      "saves": 1798,
+      "reach": 87656,
+      "engagement_rate": 13.29,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 66,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة التعليم — رابط التقديم في البايو",
+      "date": "2026-07-18",
+      "likes": 2090,
+      "comments": 246,
+      "shares": 453,
+      "saves": 683,
+      "reach": 72316,
+      "engagement_rate": 4.8,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 67,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في المغرب — رابط التقديم في البايو",
+      "date": "2026-02-04",
+      "likes": 916,
+      "comments": 104,
+      "shares": 178,
+      "saves": 122,
+      "reach": 23332,
+      "engagement_rate": 5.66,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما الحد الأدنى للعمر؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 68,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: زمالة حقوق الإنسان الدولية — رابط التقديم في البايو",
+      "date": "2025-04-27",
+      "likes": 348,
+      "comments": 8,
+      "shares": 47,
+      "saves": 91,
+      "reach": 9380,
+      "engagement_rate": 5.27,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "كيف أقدّم؟ شكرًا",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 69,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الإعلام — رابط التقديم في البايو",
+      "date": "2026-09-19",
+      "likes": 1647,
+      "comments": 177,
+      "shares": 407,
+      "saves": 422,
+      "reach": 45030,
+      "engagement_rate": 5.89,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 70,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مؤتمر التنمية المستدامة السنوي — رابط التقديم في البايو",
+      "date": "2026-05-13",
+      "likes": 805,
+      "comments": 91,
+      "shares": 148,
+      "saves": 270,
+      "reach": 9145,
+      "engagement_rate": 14.37,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 71,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر حقوق الإنسان السنوي — رابط التقديم في البايو",
+      "date": "2026-03-13",
+      "likes": 1335,
+      "comments": 121,
+      "shares": 281,
+      "saves": 499,
+      "reach": 32536,
+      "engagement_rate": 6.87,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 72,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة الإعلام في فلسطين — رابط التقديم في البايو",
+      "date": "2025-11-20",
+      "likes": 2241,
+      "comments": 145,
+      "shares": 278,
+      "saves": 584,
+      "reach": 87765,
+      "engagement_rate": 3.7,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما شروط التقديم؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 73,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مسابقة التكنولوجيا للشباب — رابط التقديم في البايو",
+      "date": "2025-12-25",
+      "likes": 2683,
+      "comments": 109,
+      "shares": 620,
+      "saves": 512,
+      "reach": 76249,
+      "engagement_rate": 5.15,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 74,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الإعلام — رابط التقديم في البايو",
+      "date": "2026-09-16",
+      "likes": 4622,
+      "comments": 347,
+      "shares": 947,
+      "saves": 990,
+      "reach": 54987,
+      "engagement_rate": 12.56,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 75,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-10-24",
+      "likes": 2161,
+      "comments": 53,
+      "shares": 481,
+      "saves": 696,
+      "reach": 51589,
+      "engagement_rate": 6.57,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 76,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2026-08-06",
+      "likes": 1544,
+      "comments": 159,
+      "shares": 231,
+      "saves": 457,
+      "reach": 33149,
+      "engagement_rate": 7.21,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 77,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التعليم — رابط التقديم في البايو",
+      "date": "2025-01-14",
+      "likes": 2203,
+      "comments": 239,
+      "shares": 546,
+      "saves": 852,
+      "reach": 67004,
+      "engagement_rate": 5.73,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 78,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-09-18",
+      "likes": 470,
+      "comments": 33,
+      "shares": 58,
+      "saves": 134,
+      "reach": 22795,
+      "engagement_rate": 3.05,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 79,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: زمالة البيئة الدولية — رابط التقديم في البايو",
+      "date": "2026-09-05",
+      "likes": 2243,
+      "comments": 109,
+      "shares": 337,
+      "saves": 693,
+      "reach": 39010,
+      "engagement_rate": 8.67,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 80,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الزراعة — رابط التقديم في البايو",
+      "date": "2026-12-08",
+      "likes": 2780,
+      "comments": 129,
+      "shares": 359,
+      "saves": 589,
+      "reach": 36084,
+      "engagement_rate": 10.69,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 81,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة المياه في الأردن — رابط التقديم في البايو",
+      "date": "2025-02-16",
+      "likes": 6452,
+      "comments": 189,
+      "shares": 812,
+      "saves": 1715,
+      "reach": 88182,
+      "engagement_rate": 10.4,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 82,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-11-09",
+      "likes": 1280,
+      "comments": 143,
+      "shares": 122,
+      "saves": 474,
+      "reach": 15499,
+      "engagement_rate": 13.03,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 83,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الإعلام — رابط التقديم في البايو",
+      "date": "2026-10-08",
+      "likes": 932,
+      "comments": 37,
+      "shares": 73,
+      "saves": 322,
+      "reach": 44220,
+      "engagement_rate": 3.08,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 84,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة البيئة في فلسطين — رابط التقديم في البايو",
+      "date": "2026-04-27",
+      "likes": 1607,
+      "comments": 142,
+      "shares": 105,
+      "saves": 520,
+      "reach": 21343,
+      "engagement_rate": 11.12,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 85,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2026-06-18",
+      "likes": 7247,
+      "comments": 432,
+      "shares": 1483,
+      "saves": 789,
+      "reach": 83460,
+      "engagement_rate": 11.92,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 86,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الإعلام — رابط التقديم في البايو",
+      "date": "2025-07-23",
+      "likes": 4175,
+      "comments": 405,
+      "shares": 455,
+      "saves": 726,
+      "reach": 89595,
+      "engagement_rate": 6.43,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل يوجد شرط لغة؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 87,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2025-08-18",
+      "likes": 305,
+      "comments": 15,
+      "shares": 37,
+      "saves": 55,
+      "reach": 14995,
+      "engagement_rate": 2.75,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل يوجد شرط لغة؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 88,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2025-02-24",
+      "likes": 2903,
+      "comments": 231,
+      "shares": 600,
+      "saves": 1042,
+      "reach": 49388,
+      "engagement_rate": 9.67,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "هل تقبل الخريجين الجدد؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 89,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مؤتمر الإعلام السنوي — رابط التقديم في البايو",
+      "date": "2025-05-16",
+      "likes": 1685,
+      "comments": 79,
+      "shares": 174,
+      "saves": 242,
+      "reach": 52903,
+      "engagement_rate": 4.12,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 90,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2025-07-26",
+      "likes": 4645,
+      "comments": 379,
+      "shares": 657,
+      "saves": 653,
+      "reach": 84924,
+      "engagement_rate": 7.46,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 91,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الصحة العامة — رابط التقديم في البايو",
+      "date": "2025-07-11",
+      "likes": 7790,
+      "comments": 261,
+      "shares": 889,
+      "saves": 2992,
+      "reach": 88332,
+      "engagement_rate": 13.51,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 92,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: زمالة التعليم الدولية — رابط التقديم في البايو",
+      "date": "2025-01-24",
+      "likes": 1488,
+      "comments": 71,
+      "shares": 308,
+      "saves": 311,
+      "reach": 34775,
+      "engagement_rate": 6.26,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 93,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة التعليم الدولية — رابط التقديم في البايو",
+      "date": "2026-04-09",
+      "likes": 3220,
+      "comments": 86,
+      "shares": 706,
+      "saves": 1090,
+      "reach": 41185,
+      "engagement_rate": 12.39,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل يوجد شرط لغة؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 94,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة الصحة العامة في لبنان — رابط التقديم في البايو",
+      "date": "2026-10-21",
+      "likes": 4357,
+      "comments": 261,
+      "shares": 659,
+      "saves": 1638,
+      "reach": 81372,
+      "engagement_rate": 8.5,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 95,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة التنمية المستدامة عن بُعد — رابط التقديم في البايو",
+      "date": "2026-01-04",
+      "likes": 1567,
+      "comments": 127,
+      "shares": 254,
+      "saves": 459,
+      "reach": 49531,
+      "engagement_rate": 4.86,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 96,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: وظيفة الطاقة المتجددة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-02-10",
+      "likes": 4616,
+      "comments": 357,
+      "shares": 642,
+      "saves": 1003,
+      "reach": 76137,
+      "engagement_rate": 8.69,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 97,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2026-06-03",
+      "likes": 2035,
+      "comments": 133,
+      "shares": 185,
+      "saves": 498,
+      "reach": 48656,
+      "engagement_rate": 5.86,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 98,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة حقوق الإنسان الدولية — رابط التقديم في البايو",
+      "date": "2025-06-18",
+      "likes": 3135,
+      "comments": 274,
+      "shares": 259,
+      "saves": 1238,
+      "reach": 47967,
+      "engagement_rate": 10.23,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 99,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الزراعة — رابط التقديم في البايو",
+      "date": "2025-07-01",
+      "likes": 898,
+      "comments": 76,
+      "shares": 115,
+      "saves": 288,
+      "reach": 27176,
+      "engagement_rate": 5.07,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "ما المستندات المطلوبة؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 100,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة البيئة — رابط التقديم في البايو",
+      "date": "2025-11-28",
+      "likes": 676,
+      "comments": 67,
+      "shares": 106,
+      "saves": 141,
+      "reach": 11200,
+      "engagement_rate": 8.84,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 101,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الزراعة — رابط التقديم في البايو",
+      "date": "2025-02-22",
+      "likes": 3386,
+      "comments": 266,
+      "shares": 404,
+      "saves": 1197,
+      "reach": 53939,
+      "engagement_rate": 9.74,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 102,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التنمية المستدامة السنوي — رابط التقديم في البايو",
+      "date": "2025-08-21",
+      "likes": 1212,
+      "comments": 69,
+      "shares": 94,
+      "saves": 262,
+      "reach": 43026,
+      "engagement_rate": 3.8,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 103,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة الذكاء الاصطناعي في الأردن — رابط التقديم في البايو",
+      "date": "2026-04-27",
+      "likes": 2701,
+      "comments": 104,
+      "shares": 589,
+      "saves": 772,
+      "reach": 67178,
+      "engagement_rate": 6.2,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 104,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في تونس — رابط التقديم في البايو",
+      "date": "2025-01-09",
+      "likes": 3846,
+      "comments": 236,
+      "shares": 838,
+      "saves": 948,
+      "reach": 56626,
+      "engagement_rate": 10.36,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 105,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-09-27",
+      "likes": 3751,
+      "comments": 364,
+      "shares": 559,
+      "saves": 949,
+      "reach": 62942,
+      "engagement_rate": 8.93,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 106,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة الذكاء الاصطناعي في تونس — رابط التقديم في البايو",
+      "date": "2026-06-28",
+      "likes": 2825,
+      "comments": 85,
+      "shares": 610,
+      "saves": 919,
+      "reach": 31644,
+      "engagement_rate": 14.03,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 107,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة الزراعة الدولية — رابط التقديم في البايو",
+      "date": "2026-04-27",
+      "likes": 1181,
+      "comments": 110,
+      "shares": 221,
+      "saves": 423,
+      "reach": 34056,
+      "engagement_rate": 5.68,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 108,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2026-03-25",
+      "likes": 2887,
+      "comments": 213,
+      "shares": 331,
+      "saves": 898,
+      "reach": 72767,
+      "engagement_rate": 5.95,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 109,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2026-11-09",
+      "likes": 764,
+      "comments": 69,
+      "shares": 164,
+      "saves": 250,
+      "reach": 20392,
+      "engagement_rate": 6.12,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "ما المستندات المطلوبة؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 110,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الصحة العامة — رابط التقديم في البايو",
+      "date": "2026-01-28",
+      "likes": 732,
+      "comments": 69,
+      "shares": 138,
+      "saves": 265,
+      "reach": 15202,
+      "engagement_rate": 7.92,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "ما الحد الأدنى للعمر؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 111,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الصحة العامة — رابط التقديم في البايو",
+      "date": "2026-10-05",
+      "likes": 3494,
+      "comments": 408,
+      "shares": 751,
+      "saves": 867,
+      "reach": 73048,
+      "engagement_rate": 7.56,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "كيف أقدّم؟ شكرًا",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 112,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-04-23",
+      "likes": 6369,
+      "comments": 420,
+      "shares": 476,
+      "saves": 2275,
+      "reach": 85074,
+      "engagement_rate": 11.21,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 113,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة التنمية المستدامة في تونس — رابط التقديم في البايو",
+      "date": "2025-12-23",
+      "likes": 1032,
+      "comments": 57,
+      "shares": 68,
+      "saves": 308,
+      "reach": 38916,
+      "engagement_rate": 3.76,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 114,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة الطاقة المتجددة في الجزائر — رابط التقديم في البايو",
+      "date": "2026-02-28",
+      "likes": 310,
+      "comments": 20,
+      "shares": 23,
+      "saves": 52,
+      "reach": 15475,
+      "engagement_rate": 2.62,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 115,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة التنمية المستدامة الدولية — رابط التقديم في البايو",
+      "date": "2026-11-22",
+      "likes": 1545,
+      "comments": 143,
+      "shares": 108,
+      "saves": 299,
+      "reach": 33008,
+      "engagement_rate": 6.35,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 116,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: مؤتمر الزراعة السنوي — رابط التقديم في البايو",
+      "date": "2025-04-03",
+      "likes": 257,
+      "comments": 9,
+      "shares": 30,
+      "saves": 42,
+      "reach": 4110,
+      "engagement_rate": 8.22,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 117,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: مسابقة حقوق الإنسان للشباب — رابط التقديم في البايو",
+      "date": "2025-10-24",
+      "likes": 2379,
+      "comments": 149,
+      "shares": 495,
+      "saves": 414,
+      "reach": 53335,
+      "engagement_rate": 6.44,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل المنحة ممولة بالكامل؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 118,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2025-04-16",
+      "likes": 4595,
+      "comments": 435,
+      "shares": 501,
+      "saves": 534,
+      "reach": 82551,
+      "engagement_rate": 7.35,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما شروط التقديم؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 119,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة البيئة — رابط التقديم في البايو",
+      "date": "2025-10-03",
+      "likes": 1300,
+      "comments": 137,
+      "shares": 212,
+      "saves": 272,
+      "reach": 44480,
+      "engagement_rate": 4.32,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 120,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر المياه السنوي — رابط التقديم في البايو",
+      "date": "2026-02-21",
+      "likes": 944,
+      "comments": 56,
+      "shares": 101,
+      "saves": 296,
+      "reach": 10925,
+      "engagement_rate": 12.79,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل تقبل الخريجين الجدد؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 121,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الزراعة السنوي — رابط التقديم في البايو",
+      "date": "2026-05-23",
+      "likes": 1113,
+      "comments": 124,
+      "shares": 272,
+      "saves": 163,
+      "reach": 43620,
+      "engagement_rate": 3.83,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 122,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2025-12-01",
+      "likes": 1211,
+      "comments": 38,
+      "shares": 208,
+      "saves": 141,
+      "reach": 14300,
+      "engagement_rate": 11.17,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 123,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-07-09",
+      "likes": 5295,
+      "comments": 487,
+      "shares": 441,
+      "saves": 731,
+      "reach": 70793,
+      "engagement_rate": 9.82,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "هل تشمل تذاكر الطيران؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 124,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة الإعلام الدولية — رابط التقديم في البايو",
+      "date": "2026-10-22",
+      "likes": 3528,
+      "comments": 197,
+      "shares": 528,
+      "saves": 952,
+      "reach": 68031,
+      "engagement_rate": 7.65,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "متى آخر موعد للتقديم؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 125,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التكنولوجيا السنوي — رابط التقديم في البايو",
+      "date": "2025-04-14",
+      "likes": 171,
+      "comments": 11,
+      "shares": 21,
+      "saves": 24,
+      "reach": 4610,
+      "engagement_rate": 4.92,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل تشمل تذاكر الطيران؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 126,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: مؤتمر البيئة السنوي — رابط التقديم في البايو",
+      "date": "2025-05-25",
+      "likes": 1028,
+      "comments": 113,
+      "shares": 88,
+      "saves": 350,
+      "reach": 18650,
+      "engagement_rate": 8.47,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 127,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الصحة العامة — رابط التقديم في البايو",
+      "date": "2025-08-25",
+      "likes": 185,
+      "comments": 9,
+      "shares": 38,
+      "saves": 59,
+      "reach": 4044,
+      "engagement_rate": 7.2,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 128,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: وظيفة الطاقة المتجددة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-12-24",
+      "likes": 1072,
+      "comments": 121,
+      "shares": 58,
+      "saves": 281,
+      "reach": 35129,
+      "engagement_rate": 4.36,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 129,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في لبنان — رابط التقديم في البايو",
+      "date": "2025-07-23",
+      "likes": 3159,
+      "comments": 82,
+      "shares": 787,
+      "saves": 990,
+      "reach": 58026,
+      "engagement_rate": 8.65,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 130,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة التكنولوجيا الدولية — رابط التقديم في البايو",
+      "date": "2026-05-28",
+      "likes": 2032,
+      "comments": 207,
+      "shares": 132,
+      "saves": 549,
+      "reach": 69247,
+      "engagement_rate": 4.22,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 131,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: زمالة البيئة الدولية — رابط التقديم في البايو",
+      "date": "2025-08-15",
+      "likes": 1404,
+      "comments": 160,
+      "shares": 108,
+      "saves": 464,
+      "reach": 38645,
+      "engagement_rate": 5.53,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 132,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في الجزائر — رابط التقديم في البايو",
+      "date": "2026-03-03",
+      "likes": 1560,
+      "comments": 103,
+      "shares": 343,
+      "saves": 198,
+      "reach": 30215,
+      "engagement_rate": 7.29,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "كيف أقدّم؟ شكرًا",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 133,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مسابقة البيئة للشباب — رابط التقديم في البايو",
+      "date": "2026-02-26",
+      "likes": 1611,
+      "comments": 191,
+      "shares": 90,
+      "saves": 356,
+      "reach": 42169,
+      "engagement_rate": 5.33,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 134,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال البيئة — رابط التقديم في البايو",
+      "date": "2025-02-07",
+      "likes": 936,
+      "comments": 95,
+      "shares": 116,
+      "saves": 270,
+      "reach": 32135,
+      "engagement_rate": 4.41,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل متاحة لطلاب مصر؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 135,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-11-14",
+      "likes": 738,
+      "comments": 18,
+      "shares": 173,
+      "saves": 169,
+      "reach": 8596,
+      "engagement_rate": 12.77,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 136,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2025-09-16",
+      "likes": 1545,
+      "comments": 167,
+      "shares": 87,
+      "saves": 441,
+      "reach": 39042,
+      "engagement_rate": 5.74,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 137,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مؤتمر المياه السنوي — رابط التقديم في البايو",
+      "date": "2025-08-18",
+      "likes": 1035,
+      "comments": 87,
+      "shares": 216,
+      "saves": 180,
+      "reach": 20987,
+      "engagement_rate": 7.23,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 138,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة الذكاء الاصطناعي في لبنان — رابط التقديم في البايو",
+      "date": "2026-06-25",
+      "likes": 2098,
+      "comments": 47,
+      "shares": 355,
+      "saves": 228,
+      "reach": 53905,
+      "engagement_rate": 5.06,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "هل متاحة لطلاب مصر؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 139,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2025-03-08",
+      "likes": 1337,
+      "comments": 135,
+      "shares": 312,
+      "saves": 156,
+      "reach": 34608,
+      "engagement_rate": 5.61,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "ما المستندات المطلوبة؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 140,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2026-01-03",
+      "likes": 4238,
+      "comments": 323,
+      "shares": 689,
+      "saves": 663,
+      "reach": 49095,
+      "engagement_rate": 12.04,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 141,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: وظيفة المياه عن بُعد — رابط التقديم في البايو",
+      "date": "2025-06-02",
+      "likes": 319,
+      "comments": 6,
+      "shares": 74,
+      "saves": 51,
+      "reach": 5612,
+      "engagement_rate": 8.02,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 142,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مؤتمر الزراعة السنوي — رابط التقديم في البايو",
+      "date": "2026-06-10",
+      "likes": 1600,
+      "comments": 167,
+      "shares": 355,
+      "saves": 621,
+      "reach": 21566,
+      "engagement_rate": 12.72,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 143,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة التعليم للشباب — رابط التقديم في البايو",
+      "date": "2026-03-13",
+      "likes": 7572,
+      "comments": 642,
+      "shares": 642,
+      "saves": 2957,
+      "reach": 86789,
+      "engagement_rate": 13.61,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 144,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: زمالة الزراعة الدولية — رابط التقديم في البايو",
+      "date": "2025-10-08",
+      "likes": 279,
+      "comments": 32,
+      "shares": 35,
+      "saves": 111,
+      "reach": 3235,
+      "engagement_rate": 14.13,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما شروط التقديم؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 145,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: وظيفة الذكاء الاصطناعي عن بُعد — رابط التقديم في البايو",
+      "date": "2025-05-07",
+      "likes": 483,
+      "comments": 57,
+      "shares": 40,
+      "saves": 176,
+      "reach": 13198,
+      "engagement_rate": 5.73,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 146,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة التنمية المستدامة الدولية — رابط التقديم في البايو",
+      "date": "2026-07-12",
+      "likes": 2751,
+      "comments": 253,
+      "shares": 164,
+      "saves": 636,
+      "reach": 36640,
+      "engagement_rate": 10.38,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "ما شروط التقديم؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 147,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال البيئة — رابط التقديم في البايو",
+      "date": "2026-06-06",
+      "likes": 1022,
+      "comments": 27,
+      "shares": 223,
+      "saves": 192,
+      "reach": 32567,
+      "engagement_rate": 4.5,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 148,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر ريادة الأعمال السنوي — رابط التقديم في البايو",
+      "date": "2025-02-11",
+      "likes": 2912,
+      "comments": 236,
+      "shares": 426,
+      "saves": 318,
+      "reach": 47295,
+      "engagement_rate": 8.23,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 149,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2025-10-18",
+      "likes": 5335,
+      "comments": 496,
+      "shares": 549,
+      "saves": 984,
+      "reach": 75628,
+      "engagement_rate": 9.74,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 150,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في الأردن — رابط التقديم في البايو",
+      "date": "2025-11-10",
+      "likes": 1543,
+      "comments": 157,
+      "shares": 270,
+      "saves": 376,
+      "reach": 59047,
+      "engagement_rate": 3.97,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 151,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2026-06-06",
+      "likes": 2918,
+      "comments": 319,
+      "shares": 300,
+      "saves": 853,
+      "reach": 55096,
+      "engagement_rate": 7.97,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 152,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التعليم — رابط التقديم في البايو",
+      "date": "2025-09-14",
+      "likes": 1344,
+      "comments": 62,
+      "shares": 83,
+      "saves": 437,
+      "reach": 37524,
+      "engagement_rate": 5.13,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "فرصة رائعة، شكرًا لكم",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 153,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الإعلام — رابط التقديم في البايو",
+      "date": "2025-07-28",
+      "likes": 3525,
+      "comments": 259,
+      "shares": 787,
+      "saves": 854,
+      "reach": 71495,
+      "engagement_rate": 7.59,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "فرصة رائعة، شكرًا لكم",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 154,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة التكنولوجيا الدولية — رابط التقديم في البايو",
+      "date": "2025-03-02",
+      "likes": 5252,
+      "comments": 430,
+      "shares": 388,
+      "saves": 1718,
+      "reach": 77905,
+      "engagement_rate": 10.0,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 155,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2025-07-18",
+      "likes": 2586,
+      "comments": 205,
+      "shares": 294,
+      "saves": 822,
+      "reach": 85211,
+      "engagement_rate": 4.59,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 156,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة ريادة الأعمال الدولية — رابط التقديم في البايو",
+      "date": "2026-10-19",
+      "likes": 346,
+      "comments": 28,
+      "shares": 53,
+      "saves": 78,
+      "reach": 4620,
+      "engagement_rate": 10.93,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 157,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التعليم السنوي — رابط التقديم في البايو",
+      "date": "2026-10-20",
+      "likes": 1217,
+      "comments": 129,
+      "shares": 275,
+      "saves": 442,
+      "reach": 16237,
+      "engagement_rate": 12.71,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 158,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة الطاقة المتجددة للشباب — رابط التقديم في البايو",
+      "date": "2026-05-12",
+      "likes": 1382,
+      "comments": 121,
+      "shares": 180,
+      "saves": 302,
+      "reach": 21855,
+      "engagement_rate": 9.08,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 159,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة الإعلام الدولية — رابط التقديم في البايو",
+      "date": "2025-06-09",
+      "likes": 3139,
+      "comments": 332,
+      "shares": 586,
+      "saves": 1229,
+      "reach": 39745,
+      "engagement_rate": 13.3,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "هل تقبل الخريجين الجدد؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 160,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة حقوق الإنسان في الأردن — رابط التقديم في البايو",
+      "date": "2026-02-10",
+      "likes": 2577,
+      "comments": 156,
+      "shares": 378,
+      "saves": 657,
+      "reach": 30707,
+      "engagement_rate": 12.27,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل يوجد شرط لغة؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 161,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2025-12-07",
+      "likes": 218,
+      "comments": 23,
+      "shares": 19,
+      "saves": 25,
+      "reach": 6794,
+      "engagement_rate": 4.19,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 162,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: زمالة الذكاء الاصطناعي الدولية — رابط التقديم في البايو",
+      "date": "2026-09-12",
+      "likes": 7300,
+      "comments": 643,
+      "shares": 718,
+      "saves": 1800,
+      "reach": 86284,
+      "engagement_rate": 12.12,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 163,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مسابقة التعليم للشباب — رابط التقديم في البايو",
+      "date": "2025-11-07",
+      "likes": 593,
+      "comments": 34,
+      "shares": 48,
+      "saves": 161,
+      "reach": 14847,
+      "engagement_rate": 5.63,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 164,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الزراعة — رابط التقديم في البايو",
+      "date": "2025-12-23",
+      "likes": 221,
+      "comments": 7,
+      "shares": 18,
+      "saves": 75,
+      "reach": 4166,
+      "engagement_rate": 7.71,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل يوجد شرط لغة؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 165,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة حقوق الإنسان في الجزائر — رابط التقديم في البايو",
+      "date": "2025-09-21",
+      "likes": 1270,
+      "comments": 63,
+      "shares": 195,
+      "saves": 364,
+      "reach": 36029,
+      "engagement_rate": 5.25,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "هل تشمل تذاكر الطيران؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 166,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التكنولوجيا — رابط التقديم في البايو",
+      "date": "2026-09-25",
+      "likes": 1618,
+      "comments": 192,
+      "shares": 288,
+      "saves": 579,
+      "reach": 66142,
+      "engagement_rate": 4.05,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 167,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2026-07-24",
+      "likes": 3795,
+      "comments": 129,
+      "shares": 209,
+      "saves": 945,
+      "reach": 89577,
+      "engagement_rate": 5.67,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 168,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2026-03-27",
+      "likes": 1227,
+      "comments": 112,
+      "shares": 229,
+      "saves": 357,
+      "reach": 27892,
+      "engagement_rate": 6.9,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل متاحة لطلاب مصر؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 169,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التكنولوجيا — رابط التقديم في البايو",
+      "date": "2026-04-24",
+      "likes": 1420,
+      "comments": 131,
+      "shares": 229,
+      "saves": 530,
+      "reach": 19769,
+      "engagement_rate": 11.68,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 170,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة التكنولوجيا — رابط التقديم في البايو",
+      "date": "2025-02-28",
+      "likes": 3236,
+      "comments": 340,
+      "shares": 466,
+      "saves": 1164,
+      "reach": 79751,
+      "engagement_rate": 6.53,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "فرصة رائعة، شكرًا لكم",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 171,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2026-02-16",
+      "likes": 674,
+      "comments": 26,
+      "shares": 88,
+      "saves": 182,
+      "reach": 22762,
+      "engagement_rate": 4.26,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 172,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة البيئة — رابط التقديم في البايو",
+      "date": "2025-10-14",
+      "likes": 215,
+      "comments": 10,
+      "shares": 43,
+      "saves": 32,
+      "reach": 10603,
+      "engagement_rate": 2.83,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "ما المستندات المطلوبة؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 173,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة الطاقة المتجددة للشباب — رابط التقديم في البايو",
+      "date": "2026-11-24",
+      "likes": 81,
+      "comments": 3,
+      "shares": 10,
+      "saves": 8,
+      "reach": 3611,
+      "engagement_rate": 2.82,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 174,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال الإعلام — رابط التقديم في البايو",
+      "date": "2025-12-17",
+      "likes": 1274,
+      "comments": 74,
+      "shares": 213,
+      "saves": 191,
+      "reach": 43906,
+      "engagement_rate": 3.99,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "كيف أقدّم؟ شكرًا",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 175,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في المغرب — رابط التقديم في البايو",
+      "date": "2026-12-05",
+      "likes": 4300,
+      "comments": 296,
+      "shares": 860,
+      "saves": 642,
+      "reach": 47922,
+      "engagement_rate": 12.72,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 176,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة الزراعة في مصر — رابط التقديم في البايو",
+      "date": "2026-11-04",
+      "likes": 2200,
+      "comments": 124,
+      "shares": 396,
+      "saves": 244,
+      "reach": 69143,
+      "engagement_rate": 4.29,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما المستندات المطلوبة؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 177,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2025-11-17",
+      "likes": 1513,
+      "comments": 68,
+      "shares": 288,
+      "saves": 244,
+      "reach": 52840,
+      "engagement_rate": 4.0,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 178,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2025-10-07",
+      "likes": 4524,
+      "comments": 137,
+      "shares": 876,
+      "saves": 612,
+      "reach": 57896,
+      "engagement_rate": 10.62,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 179,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة التكنولوجيا عن بُعد — رابط التقديم في البايو",
+      "date": "2026-01-22",
+      "likes": 2306,
+      "comments": 55,
+      "shares": 344,
+      "saves": 374,
+      "reach": 56707,
+      "engagement_rate": 5.43,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 180,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التعليم — رابط التقديم في البايو",
+      "date": "2025-08-10",
+      "likes": 2062,
+      "comments": 59,
+      "shares": 314,
+      "saves": 653,
+      "reach": 67763,
+      "engagement_rate": 4.56,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 181,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب البيئة — رابط التقديم في البايو",
+      "date": "2026-01-28",
+      "likes": 2102,
+      "comments": 221,
+      "shares": 256,
+      "saves": 636,
+      "reach": 25898,
+      "engagement_rate": 12.41,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 182,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: وظيفة الصحة العامة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-02-13",
+      "likes": 2074,
+      "comments": 132,
+      "shares": 361,
+      "saves": 753,
+      "reach": 46078,
+      "engagement_rate": 7.21,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 183,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: زمالة البيئة الدولية — رابط التقديم في البايو",
+      "date": "2025-10-16",
+      "likes": 4991,
+      "comments": 423,
+      "shares": 1045,
+      "saves": 668,
+      "reach": 65684,
+      "engagement_rate": 10.85,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "ما الحد الأدنى للعمر؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 184,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2025-07-15",
+      "likes": 3139,
+      "comments": 333,
+      "shares": 709,
+      "saves": 998,
+      "reach": 50002,
+      "engagement_rate": 10.36,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 185,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2025-12-23",
+      "likes": 921,
+      "comments": 98,
+      "shares": 142,
+      "saves": 297,
+      "reach": 44187,
+      "engagement_rate": 3.3,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "هل يوجد شرط لغة؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 186,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة التعليم في الأردن — رابط التقديم في البايو",
+      "date": "2025-09-28",
+      "likes": 6060,
+      "comments": 354,
+      "shares": 1319,
+      "saves": 1621,
+      "reach": 89993,
+      "engagement_rate": 10.39,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 187,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التكنولوجيا السنوي — رابط التقديم في البايو",
+      "date": "2026-08-15",
+      "likes": 2862,
+      "comments": 151,
+      "shares": 302,
+      "saves": 721,
+      "reach": 67441,
+      "engagement_rate": 5.98,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "ما شروط التقديم؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 188,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة البيئة في العراق — رابط التقديم في البايو",
+      "date": "2025-10-21",
+      "likes": 1645,
+      "comments": 155,
+      "shares": 88,
+      "saves": 363,
+      "reach": 18559,
+      "engagement_rate": 12.13,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 189,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2026-10-16",
+      "likes": 5433,
+      "comments": 306,
+      "shares": 330,
+      "saves": 906,
+      "reach": 62796,
+      "engagement_rate": 11.11,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "كيف أقدّم؟ شكرًا",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 190,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: وظيفة المياه عن بُعد — رابط التقديم في البايو",
+      "date": "2026-01-06",
+      "likes": 3174,
+      "comments": 171,
+      "shares": 685,
+      "saves": 1235,
+      "reach": 89364,
+      "engagement_rate": 5.89,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 191,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: وظيفة البيئة عن بُعد — رابط التقديم في البايو",
+      "date": "2025-01-21",
+      "likes": 2800,
+      "comments": 89,
+      "shares": 617,
+      "saves": 461,
+      "reach": 83065,
+      "engagement_rate": 4.78,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما شروط التقديم؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 192,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مؤتمر الزراعة السنوي — رابط التقديم في البايو",
+      "date": "2025-09-25",
+      "likes": 6975,
+      "comments": 233,
+      "shares": 1044,
+      "saves": 1807,
+      "reach": 80242,
+      "engagement_rate": 12.54,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 193,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الزراعة السنوي — رابط التقديم في البايو",
+      "date": "2026-05-13",
+      "likes": 540,
+      "comments": 46,
+      "shares": 92,
+      "saves": 106,
+      "reach": 19827,
+      "engagement_rate": 3.95,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 194,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مسابقة التكنولوجيا للشباب — رابط التقديم في البايو",
+      "date": "2026-10-23",
+      "likes": 3550,
+      "comments": 385,
+      "shares": 541,
+      "saves": 1252,
+      "reach": 57099,
+      "engagement_rate": 10.03,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 195,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: وظيفة حقوق الإنسان عن بُعد — رابط التقديم في البايو",
+      "date": "2025-10-19",
+      "likes": 7785,
+      "comments": 294,
+      "shares": 1233,
+      "saves": 2265,
+      "reach": 88208,
+      "engagement_rate": 13.12,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل يوجد شرط لغة؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 196,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مسابقة الإعلام للشباب — رابط التقديم في البايو",
+      "date": "2025-05-22",
+      "likes": 4469,
+      "comments": 322,
+      "shares": 246,
+      "saves": 641,
+      "reach": 58363,
+      "engagement_rate": 9.73,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 197,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التكنولوجيا السنوي — رابط التقديم في البايو",
+      "date": "2025-12-10",
+      "likes": 1428,
+      "comments": 105,
+      "shares": 173,
+      "saves": 336,
+      "reach": 41684,
+      "engagement_rate": 4.9,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل المنحة ممولة بالكامل؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 198,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة التعليم للشباب — رابط التقديم في البايو",
+      "date": "2026-10-18",
+      "likes": 3853,
+      "comments": 97,
+      "shares": 765,
+      "saves": 620,
+      "reach": 43980,
+      "engagement_rate": 12.13,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "متى آخر موعد للتقديم؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 199,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مؤتمر الطاقة المتجددة السنوي — رابط التقديم في البايو",
+      "date": "2025-05-18",
+      "likes": 2332,
+      "comments": 64,
+      "shares": 565,
+      "saves": 747,
+      "reach": 26255,
+      "engagement_rate": 14.12,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 200,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة التعليم في العراق — رابط التقديم في البايو",
+      "date": "2026-11-10",
+      "likes": 742,
+      "comments": 49,
+      "shares": 176,
+      "saves": 83,
+      "reach": 36425,
+      "engagement_rate": 2.88,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 201,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر حقوق الإنسان السنوي — رابط التقديم في البايو",
+      "date": "2025-07-03",
+      "likes": 2535,
+      "comments": 293,
+      "shares": 390,
+      "saves": 851,
+      "reach": 44662,
+      "engagement_rate": 9.11,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 202,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التعليم — رابط التقديم في البايو",
+      "date": "2025-08-08",
+      "likes": 2099,
+      "comments": 87,
+      "shares": 420,
+      "saves": 543,
+      "reach": 46393,
+      "engagement_rate": 6.79,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما المستندات المطلوبة؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 203,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة حقوق الإنسان في الجزائر — رابط التقديم في البايو",
+      "date": "2026-09-26",
+      "likes": 2104,
+      "comments": 209,
+      "shares": 152,
+      "saves": 372,
+      "reach": 45065,
+      "engagement_rate": 6.3,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "ما المستندات المطلوبة؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 204,
+      "platform": "facebook",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التكنولوجيا — رابط التقديم في البايو",
+      "date": "2025-11-14",
+      "likes": 1197,
+      "comments": 33,
+      "shares": 82,
+      "saves": 468,
+      "reach": 28232,
+      "engagement_rate": 6.3,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 205,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: وظيفة الطاقة المتجددة عن بُعد — رابط التقديم في البايو",
+      "date": "2026-02-02",
+      "likes": 3918,
+      "comments": 446,
+      "shares": 781,
+      "saves": 572,
+      "reach": 60047,
+      "engagement_rate": 9.52,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 206,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2026-07-22",
+      "likes": 6074,
+      "comments": 674,
+      "shares": 798,
+      "saves": 1429,
+      "reach": 78361,
+      "engagement_rate": 11.45,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 207,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الإعلام — رابط التقديم في البايو",
+      "date": "2026-10-03",
+      "likes": 2053,
+      "comments": 194,
+      "shares": 121,
+      "saves": 727,
+      "reach": 84048,
+      "engagement_rate": 3.68,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 208,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة الإعلام الدولية — رابط التقديم في البايو",
+      "date": "2026-01-18",
+      "likes": 1985,
+      "comments": 70,
+      "shares": 186,
+      "saves": 643,
+      "reach": 89602,
+      "engagement_rate": 3.22,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "ما شروط التقديم؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 209,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: مسابقة التنمية المستدامة للشباب — رابط التقديم في البايو",
+      "date": "2026-03-06",
+      "likes": 3864,
+      "comments": 288,
+      "shares": 258,
+      "saves": 629,
+      "reach": 81204,
+      "engagement_rate": 6.21,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 210,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الإعلام — رابط التقديم في البايو",
+      "date": "2026-05-04",
+      "likes": 1213,
+      "comments": 46,
+      "shares": 254,
+      "saves": 431,
+      "reach": 36127,
+      "engagement_rate": 5.38,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 211,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مسابقة الصحة العامة للشباب — رابط التقديم في البايو",
+      "date": "2025-08-11",
+      "likes": 2086,
+      "comments": 181,
+      "shares": 202,
+      "saves": 387,
+      "reach": 46365,
+      "engagement_rate": 6.16,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل تشمل تذاكر الطيران؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 212,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: مسابقة المياه للشباب — رابط التقديم في البايو",
+      "date": "2025-05-27",
+      "likes": 3518,
+      "comments": 181,
+      "shares": 477,
+      "saves": 356,
+      "reach": 77299,
+      "engagement_rate": 5.86,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 213,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الإعلام — رابط التقديم في البايو",
+      "date": "2025-09-07",
+      "likes": 3453,
+      "comments": 192,
+      "shares": 383,
+      "saves": 916,
+      "reach": 65908,
+      "engagement_rate": 7.5,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 214,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مسابقة الطاقة المتجددة للشباب — رابط التقديم في البايو",
+      "date": "2026-05-18",
+      "likes": 1062,
+      "comments": 111,
+      "shares": 187,
+      "saves": 365,
+      "reach": 12882,
+      "engagement_rate": 13.39,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 215,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2025-01-22",
+      "likes": 2658,
+      "comments": 209,
+      "shares": 588,
+      "saves": 372,
+      "reach": 32269,
+      "engagement_rate": 11.86,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 216,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الصحة العامة — رابط التقديم في البايو",
+      "date": "2025-04-25",
+      "likes": 2099,
+      "comments": 75,
+      "shares": 342,
+      "saves": 566,
+      "reach": 70388,
+      "engagement_rate": 4.38,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 217,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2026-11-11",
+      "likes": 774,
+      "comments": 31,
+      "shares": 179,
+      "saves": 161,
+      "reach": 33673,
+      "engagement_rate": 3.4,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 218,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: وظيفة الزراعة عن بُعد — رابط التقديم في البايو",
+      "date": "2026-09-09",
+      "likes": 3047,
+      "comments": 141,
+      "shares": 484,
+      "saves": 463,
+      "reach": 38847,
+      "engagement_rate": 10.64,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 219,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2025-02-17",
+      "likes": 2607,
+      "comments": 177,
+      "shares": 445,
+      "saves": 653,
+      "reach": 48224,
+      "engagement_rate": 8.05,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "متى آخر موعد للتقديم؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 220,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2026-08-07",
+      "likes": 3136,
+      "comments": 318,
+      "shares": 571,
+      "saves": 703,
+      "reach": 50477,
+      "engagement_rate": 9.37,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 221,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: منحة ريادة الأعمال في تونس — رابط التقديم في البايو",
+      "date": "2025-03-17",
+      "likes": 250,
+      "comments": 19,
+      "shares": 19,
+      "saves": 63,
+      "reach": 8655,
+      "engagement_rate": 4.06,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 222,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2026-07-20",
+      "likes": 6953,
+      "comments": 797,
+      "shares": 648,
+      "saves": 1960,
+      "reach": 89736,
+      "engagement_rate": 11.54,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 223,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: مسابقة التنمية المستدامة للشباب — رابط التقديم في البايو",
+      "date": "2025-03-04",
+      "likes": 4988,
+      "comments": 183,
+      "shares": 933,
+      "saves": 1879,
+      "reach": 89461,
+      "engagement_rate": 8.92,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 224,
+      "platform": "linkedin",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب البيئة — رابط التقديم في البايو",
+      "date": "2025-11-05",
+      "likes": 4692,
+      "comments": 481,
+      "shares": 802,
+      "saves": 718,
+      "reach": 69107,
+      "engagement_rate": 9.68,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل المنحة ممولة بالكامل؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 225,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2026-12-25",
+      "likes": 4187,
+      "comments": 375,
+      "shares": 568,
+      "saves": 1597,
+      "reach": 51546,
+      "engagement_rate": 13.05,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما شروط التقديم؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 226,
+      "platform": "instagram",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التكنولوجيا — رابط التقديم في البايو",
+      "date": "2026-12-24",
+      "likes": 4824,
+      "comments": 535,
+      "shares": 322,
+      "saves": 1348,
+      "reach": 65539,
+      "engagement_rate": 10.72,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 227,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2026-11-19",
+      "likes": 1458,
+      "comments": 124,
+      "shares": 273,
+      "saves": 283,
+      "reach": 71126,
+      "engagement_rate": 3.01,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 228,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2026-09-16",
+      "likes": 3199,
+      "comments": 381,
+      "shares": 414,
+      "saves": 515,
+      "reach": 50925,
+      "engagement_rate": 8.85,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 229,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة البيئة الدولية — رابط التقديم في البايو",
+      "date": "2026-09-13",
+      "likes": 3945,
+      "comments": 416,
+      "shares": 717,
+      "saves": 1279,
+      "reach": 55183,
+      "engagement_rate": 11.52,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 230,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الزراعة — رابط التقديم في البايو",
+      "date": "2025-02-03",
+      "likes": 306,
+      "comments": 35,
+      "shares": 15,
+      "saves": 38,
+      "reach": 9822,
+      "engagement_rate": 4.01,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    },
+    {
+      "id": 231,
+      "platform": "instagram",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ريادة الأعمال في جميع الدول — رابط التقديم في البايو",
+      "date": "2026-08-01",
+      "likes": 562,
+      "comments": 63,
+      "shares": 73,
+      "saves": 166,
+      "reach": 7948,
+      "engagement_rate": 10.87,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 232,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة الصحة العامة في المغرب — رابط التقديم في البايو",
+      "date": "2025-11-01",
+      "likes": 637,
+      "comments": 50,
+      "shares": 97,
+      "saves": 107,
+      "reach": 28525,
+      "engagement_rate": 3.12,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 233,
+      "platform": "facebook",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2025-12-27",
+      "likes": 2475,
+      "comments": 147,
+      "shares": 413,
+      "saves": 631,
+      "reach": 55354,
+      "engagement_rate": 6.62,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "كيف أقدّم؟ شكرًا",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 234,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر حقوق الإنسان السنوي — رابط التقديم في البايو",
+      "date": "2025-09-03",
+      "likes": 7209,
+      "comments": 472,
+      "shares": 942,
+      "saves": 730,
+      "reach": 82477,
+      "engagement_rate": 11.34,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "كيف أقدّم؟ شكرًا",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 235,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: مسابقة الصحة العامة للشباب — رابط التقديم في البايو",
+      "date": "2026-11-15",
+      "likes": 5653,
+      "comments": 438,
+      "shares": 1067,
+      "saves": 2203,
+      "reach": 73504,
+      "engagement_rate": 12.74,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما الحد الأدنى للعمر؟",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 236,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2026-09-01",
+      "likes": 3420,
+      "comments": 408,
+      "shares": 634,
+      "saves": 577,
+      "reach": 53157,
+      "engagement_rate": 9.48,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "متى آخر موعد للتقديم؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 237,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: زمالة المياه الدولية — رابط التقديم في البايو",
+      "date": "2026-08-24",
+      "likes": 1211,
+      "comments": 137,
+      "shares": 175,
+      "saves": 249,
+      "reach": 47825,
+      "engagement_rate": 3.71,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 238,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب البيئة — رابط التقديم في البايو",
+      "date": "2025-11-22",
+      "likes": 1302,
+      "comments": 52,
+      "shares": 130,
+      "saves": 371,
+      "reach": 37787,
+      "engagement_rate": 4.91,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 239,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2026-05-13",
+      "likes": 3044,
+      "comments": 156,
+      "shares": 698,
+      "saves": 1108,
+      "reach": 66214,
+      "engagement_rate": 7.56,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 240,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة الذكاء الاصطناعي الدولية — رابط التقديم في البايو",
+      "date": "2026-12-17",
+      "likes": 5461,
+      "comments": 370,
+      "shares": 863,
+      "saves": 1369,
+      "reach": 71909,
+      "engagement_rate": 11.21,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 241,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التكنولوجيا — رابط التقديم في البايو",
+      "date": "2025-08-20",
+      "likes": 1425,
+      "comments": 42,
+      "shares": 174,
+      "saves": 510,
+      "reach": 30623,
+      "engagement_rate": 7.02,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 242,
+      "platform": "facebook",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: زمالة الزراعة الدولية — رابط التقديم في البايو",
+      "date": "2026-10-22",
+      "likes": 1509,
+      "comments": 143,
+      "shares": 185,
+      "saves": 332,
+      "reach": 30594,
+      "engagement_rate": 7.09,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 243,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2025-07-16",
+      "likes": 1996,
+      "comments": 210,
+      "shares": 178,
+      "saves": 678,
+      "reach": 33907,
+      "engagement_rate": 9.03,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 244,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب المياه — رابط التقديم في البايو",
+      "date": "2026-01-07",
+      "likes": 3327,
+      "comments": 166,
+      "shares": 540,
+      "saves": 899,
+      "reach": 44383,
+      "engagement_rate": 11.11,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 245,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة التنمية المستدامة في السودان — رابط التقديم في البايو",
+      "date": "2026-06-28",
+      "likes": 1789,
+      "comments": 100,
+      "shares": 288,
+      "saves": 613,
+      "reach": 46864,
+      "engagement_rate": 5.95,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "متى آخر موعد للتقديم؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 246,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة البيئة — رابط التقديم في البايو",
+      "date": "2026-10-10",
+      "likes": 5081,
+      "comments": 599,
+      "shares": 543,
+      "saves": 1003,
+      "reach": 88082,
+      "engagement_rate": 8.2,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل متاحة لطلاب مصر؟"
+      ]
+    },
+    {
+      "id": 247,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2025-06-11",
+      "likes": 2338,
+      "comments": 189,
+      "shares": 306,
+      "saves": 870,
+      "reach": 47222,
+      "engagement_rate": 7.84,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "ما المستندات المطلوبة؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 248,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: مؤتمر ريادة الأعمال السنوي — رابط التقديم في البايو",
+      "date": "2026-01-05",
+      "likes": 3166,
+      "comments": 310,
+      "shares": 752,
+      "saves": 1026,
+      "reach": 38553,
+      "engagement_rate": 13.63,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 249,
+      "platform": "linkedin",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة الطاقة المتجددة في فلسطين — رابط التقديم في البايو",
+      "date": "2026-09-25",
+      "likes": 468,
+      "comments": 27,
+      "shares": 32,
+      "saves": 178,
+      "reach": 13494,
+      "engagement_rate": 5.22,
+      "sample_comments": [
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 250,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة التعليم — رابط التقديم في البايو",
+      "date": "2026-03-17",
+      "likes": 604,
+      "comments": 68,
+      "shares": 77,
+      "saves": 101,
+      "reach": 23352,
+      "engagement_rate": 3.64,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 251,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة ريادة الأعمال — رابط التقديم في البايو",
+      "date": "2026-03-19",
+      "likes": 3992,
+      "comments": 209,
+      "shares": 579,
+      "saves": 1566,
+      "reach": 49771,
+      "engagement_rate": 12.75,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل المنحة للدراسات العليا فقط؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 252,
+      "platform": "facebook",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الإعلام — رابط التقديم في البايو",
+      "date": "2025-07-09",
+      "likes": 5625,
+      "comments": 286,
+      "shares": 671,
+      "saves": 1473,
+      "reach": 86858,
+      "engagement_rate": 9.27,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 253,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة ممولة بالكامل لدراسة الذكاء الاصطناعي — رابط التقديم في البايو",
+      "date": "2025-01-25",
+      "likes": 5518,
+      "comments": 578,
+      "shares": 655,
+      "saves": 1328,
+      "reach": 71592,
+      "engagement_rate": 11.28,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 254,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: زمالة المياه الدولية — رابط التقديم في البايو",
+      "date": "2025-07-08",
+      "likes": 230,
+      "comments": 8,
+      "shares": 52,
+      "saves": 53,
+      "reach": 3946,
+      "engagement_rate": 8.69,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "هل يوجد شرط لغة؟"
+      ]
+    },
+    {
+      "id": 255,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال التنمية المستدامة — رابط التقديم في البايو",
+      "date": "2026-02-06",
+      "likes": 5198,
+      "comments": 576,
+      "shares": 1099,
+      "saves": 1587,
+      "reach": 70713,
+      "engagement_rate": 11.96,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 256,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: زمالة الطاقة المتجددة الدولية — رابط التقديم في البايو",
+      "date": "2025-01-06",
+      "likes": 3964,
+      "comments": 187,
+      "shares": 691,
+      "saves": 619,
+      "reach": 62682,
+      "engagement_rate": 8.71,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 257,
+      "platform": "facebook",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الإعلام السنوي — رابط التقديم في البايو",
+      "date": "2026-06-15",
+      "likes": 4286,
+      "comments": 185,
+      "shares": 343,
+      "saves": 1063,
+      "reach": 60464,
+      "engagement_rate": 9.72,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "كيف أقدّم؟ شكرًا",
+        "ما شروط التقديم؟"
+      ]
+    },
+    {
+      "id": 258,
+      "platform": "instagram",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الطاقة المتجددة السنوي — رابط التقديم في البايو",
+      "date": "2026-12-08",
+      "likes": 2818,
+      "comments": 76,
+      "shares": 405,
+      "saves": 444,
+      "reach": 37931,
+      "engagement_rate": 9.87,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 259,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر التعليم السنوي — رابط التقديم في البايو",
+      "date": "2026-06-06",
+      "likes": 1521,
+      "comments": 147,
+      "shares": 234,
+      "saves": 600,
+      "reach": 29106,
+      "engagement_rate": 8.6,
+      "sample_comments": [
+        "ما المستندات المطلوبة؟",
+        "هل المنحة ممولة بالكامل؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 260,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب التكنولوجيا — رابط التقديم في البايو",
+      "date": "2025-06-01",
+      "likes": 1943,
+      "comments": 96,
+      "shares": 237,
+      "saves": 224,
+      "reach": 36202,
+      "engagement_rate": 6.91,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 261,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2026-04-06",
+      "likes": 4129,
+      "comments": 86,
+      "shares": 241,
+      "saves": 1383,
+      "reach": 54879,
+      "engagement_rate": 10.64,
+      "sample_comments": [
+        "ما شروط التقديم؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 262,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة الذكاء الاصطناعي الدولية — رابط التقديم في البايو",
+      "date": "2025-06-18",
+      "likes": 2055,
+      "comments": 114,
+      "shares": 166,
+      "saves": 536,
+      "reach": 84937,
+      "engagement_rate": 3.38,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "ما الحد الأدنى للعمر؟",
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 263,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال حقوق الإنسان — رابط التقديم في البايو",
+      "date": "2026-04-19",
+      "likes": 2366,
+      "comments": 79,
+      "shares": 543,
+      "saves": 581,
+      "reach": 52514,
+      "engagement_rate": 6.8,
+      "sample_comments": [
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 264,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: زمالة الذكاء الاصطناعي الدولية — رابط التقديم في البايو",
+      "date": "2025-05-18",
+      "likes": 2528,
+      "comments": 260,
+      "shares": 588,
+      "saves": 673,
+      "reach": 64393,
+      "engagement_rate": 6.29,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 265,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: وظيفة المياه عن بُعد — رابط التقديم في البايو",
+      "date": "2025-11-18",
+      "likes": 3759,
+      "comments": 407,
+      "shares": 653,
+      "saves": 786,
+      "reach": 52681,
+      "engagement_rate": 10.64,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟",
+        "فرصة رائعة، شكرًا لكم"
+      ]
+    },
+    {
+      "id": 266,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: برنامج تدريب الطاقة المتجددة — رابط التقديم في البايو",
+      "date": "2025-03-28",
+      "likes": 2317,
+      "comments": 111,
+      "shares": 305,
+      "saves": 455,
+      "reach": 75281,
+      "engagement_rate": 4.23,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 267,
+      "platform": "instagram",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: منحة الصحة العامة في المغرب — رابط التقديم في البايو",
+      "date": "2026-10-23",
+      "likes": 756,
+      "comments": 58,
+      "shares": 164,
+      "saves": 224,
+      "reach": 28115,
+      "engagement_rate": 4.28,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟"
+      ]
+    },
+    {
+      "id": 268,
+      "platform": "instagram",
+      "opportunity_type": "منح دراسية",
+      "caption": "🌱 فرصة جديدة: مؤتمر الصحة العامة السنوي — رابط التقديم في البايو",
+      "date": "2026-10-09",
+      "likes": 5728,
+      "comments": 591,
+      "shares": 822,
+      "saves": 1670,
+      "reach": 67409,
+      "engagement_rate": 13.07,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "ما شروط التقديم؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 269,
+      "platform": "instagram",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: زمالة حقوق الإنسان الدولية — رابط التقديم في البايو",
+      "date": "2025-07-24",
+      "likes": 1905,
+      "comments": 176,
+      "shares": 297,
+      "saves": 298,
+      "reach": 71089,
+      "engagement_rate": 3.76,
+      "sample_comments": [
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 270,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: وظيفة التعليم عن بُعد — رابط التقديم في البايو",
+      "date": "2026-09-20",
+      "likes": 4366,
+      "comments": 273,
+      "shares": 309,
+      "saves": 1474,
+      "reach": 63125,
+      "engagement_rate": 10.17,
+      "sample_comments": [
+        "كيف أقدّم؟ شكرًا",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 271,
+      "platform": "linkedin",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: مسابقة التنمية المستدامة للشباب — رابط التقديم في البايو",
+      "date": "2025-12-09",
+      "likes": 2527,
+      "comments": 210,
+      "shares": 543,
+      "saves": 497,
+      "reach": 51722,
+      "engagement_rate": 7.3,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟",
+        "ما المستندات المطلوبة؟"
+      ]
+    },
+    {
+      "id": 272,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: منحة الإعلام في المغرب — رابط التقديم في البايو",
+      "date": "2026-04-28",
+      "likes": 669,
+      "comments": 53,
+      "shares": 102,
+      "saves": 266,
+      "reach": 7543,
+      "engagement_rate": 14.45,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 273,
+      "platform": "linkedin",
+      "opportunity_type": "وظائف",
+      "caption": "🌱 فرصة جديدة: زمالة الإعلام الدولية — رابط التقديم في البايو",
+      "date": "2025-10-08",
+      "likes": 4551,
+      "comments": 351,
+      "shares": 313,
+      "saves": 1083,
+      "reach": 75918,
+      "engagement_rate": 8.3,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 274,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: زمالة الذكاء الاصطناعي الدولية — رابط التقديم في البايو",
+      "date": "2026-02-20",
+      "likes": 3732,
+      "comments": 417,
+      "shares": 734,
+      "saves": 1183,
+      "reach": 77774,
+      "engagement_rate": 7.8,
+      "sample_comments": [
+        "هل تشمل تذاكر الطيران؟",
+        "هل المنحة ممولة بالكامل؟",
+        "هل تقبل الخريجين الجدد؟"
+      ]
+    },
+    {
+      "id": 275,
+      "platform": "facebook",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مسابقة المياه للشباب — رابط التقديم في البايو",
+      "date": "2025-01-21",
+      "likes": 873,
+      "comments": 46,
+      "shares": 197,
+      "saves": 201,
+      "reach": 10329,
+      "engagement_rate": 12.75,
+      "sample_comments": [
+        "هل يوجد شرط لغة؟",
+        "هل المنحة ممولة بالكامل؟",
+        "هل تشمل تذاكر الطيران؟"
+      ]
+    },
+    {
+      "id": 276,
+      "platform": "linkedin",
+      "opportunity_type": "مسابقات",
+      "caption": "🌱 فرصة جديدة: مؤتمر الذكاء الاصطناعي السنوي — رابط التقديم في البايو",
+      "date": "2025-10-17",
+      "likes": 2592,
+      "comments": 90,
+      "shares": 390,
+      "saves": 430,
+      "reach": 44853,
+      "engagement_rate": 7.81,
+      "sample_comments": [
+        "متى آخر موعد للتقديم؟"
+      ]
+    },
+    {
+      "id": 277,
+      "platform": "facebook",
+      "opportunity_type": "تدريب",
+      "caption": "🌱 فرصة جديدة: فرصة تطوع في مجال البيئة — رابط التقديم في البايو",
+      "date": "2026-09-14",
+      "likes": 1660,
+      "comments": 89,
+      "shares": 240,
+      "saves": 537,
+      "reach": 54684,
+      "engagement_rate": 4.62,
+      "sample_comments": [
+        "هل متاحة لطلاب مصر؟",
+        "ما المستندات المطلوبة؟",
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 278,
+      "platform": "linkedin",
+      "opportunity_type": "زمالات",
+      "caption": "🌱 فرصة جديدة: مسابقة البيئة للشباب — رابط التقديم في البايو",
+      "date": "2025-07-11",
+      "likes": 3191,
+      "comments": 246,
+      "shares": 517,
+      "saves": 1273,
+      "reach": 66944,
+      "engagement_rate": 7.81,
+      "sample_comments": [
+        "هل تقبل الخريجين الجدد؟",
+        "ما شروط التقديم؟",
+        "هل المنحة للدراسات العليا فقط؟"
+      ]
+    },
+    {
+      "id": 279,
+      "platform": "linkedin",
+      "opportunity_type": "تطوع",
+      "caption": "🌱 فرصة جديدة: زمالة الصحة العامة الدولية — رابط التقديم في البايو",
+      "date": "2026-08-20",
+      "likes": 2666,
+      "comments": 104,
+      "shares": 317,
+      "saves": 790,
+      "reach": 58514,
+      "engagement_rate": 6.63,
+      "sample_comments": [
+        "ما الحد الأدنى للعمر؟"
+      ]
+    },
+    {
+      "id": 280,
+      "platform": "instagram",
+      "opportunity_type": "مؤتمرات",
+      "caption": "🌱 فرصة جديدة: منحة التكنولوجيا في العراق — رابط التقديم في البايو",
+      "date": "2025-03-28",
+      "likes": 1141,
+      "comments": 65,
+      "shares": 229,
+      "saves": 406,
+      "reach": 33603,
+      "engagement_rate": 5.48,
+      "sample_comments": [
+        "هل المنحة ممولة بالكامل؟",
+        "كيف أقدّم؟ شكرًا"
+      ]
+    }
+  ],
+  "analytics": {
+    "monthly_visitors": [
+      {
+        "month": "يناير 2025",
+        "visitors": 699061
+      },
+      {
+        "month": "فبراير 2025",
+        "visitors": 642878
+      },
+      {
+        "month": "مارس 2025",
+        "visitors": 583493
+      },
+      {
+        "month": "أبريل 2025",
+        "visitors": 600983
+      },
+      {
+        "month": "مايو 2025",
+        "visitors": 634452
+      },
+      {
+        "month": "يونيو 2025",
+        "visitors": 781909
+      },
+      {
+        "month": "يوليو 2025",
+        "visitors": 779931
+      },
+      {
+        "month": "أغسطس 2025",
+        "visitors": 748785
+      },
+      {
+        "month": "سبتمبر 2025",
+        "visitors": 623473
+      },
+      {
+        "month": "أكتوبر 2025",
+        "visitors": 699707
+      },
+      {
+        "month": "نوفمبر 2025",
+        "visitors": 834429
+      },
+      {
+        "month": "ديسمبر 2025",
+        "visitors": 848315
+      },
+      {
+        "month": "يناير 2026",
+        "visitors": 767487
+      },
+      {
+        "month": "فبراير 2026",
+        "visitors": 923784
+      },
+      {
+        "month": "مارس 2026",
+        "visitors": 964306
+      },
+      {
+        "month": "أبريل 2026",
+        "visitors": 966420
+      },
+      {
+        "month": "مايو 2026",
+        "visitors": 790590
+      },
+      {
+        "month": "يونيو 2026",
+        "visitors": 1064489
+      }
+    ],
+    "opportunities_by_type": {
+      "منح دراسية": 27,
+      "مسابقات": 17,
+      "زمالات": 15,
+      "تطوع": 16,
+      "مؤتمرات": 22,
+      "تدريب": 22,
+      "وظائف": 20
+    },
+    "opportunities_by_country": {
+      "مصر": 10,
+      "فلسطين": 15,
+      "لبنان": 13,
+      "تونس": 14,
+      "العراق": 14,
+      "السودان": 21,
+      "المغرب": 17,
+      "الأردن": 12,
+      "الجزائر": 10,
+      "جميع الدول": 13
+    },
+    "platform_summary": [
+      {
+        "platform": "instagram",
+        "followers": 48200,
+        "total_posts": 89,
+        "avg_engagement_rate": 8.03,
+        "total_reach": 4270616
+      },
+      {
+        "platform": "facebook",
+        "followers": 63100,
+        "total_posts": 77,
+        "avg_engagement_rate": 8.01,
+        "total_reach": 3626564
+      },
+      {
+        "platform": "linkedin",
+        "followers": 21800,
+        "total_posts": 114,
+        "avg_engagement_rate": 7.74,
+        "total_reach": 5632120
+      }
+    ]
+  }
+}

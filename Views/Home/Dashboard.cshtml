@@ -1,0 +1,82 @@
+@{
+    ViewData["Title"] = "لوحة التحليلات";
+    ViewData["Active"] = "dashboard";
+}
+
+<header class="page-head">
+    <div>
+        <p class="eyebrow">لوحة الفريق الداخلية</p>
+        <h1>تحليلات الأداء</h1>
+    </div>
+    <a class="btn-ghost" asp-controller="Home" asp-action="Chat">اسأل المساعد ←</a>
+</header>
+
+<section class="cards" id="cards">
+    <div class="card stat">
+        <span class="stat-label">إجمالي الفرص</span>
+        <span class="stat-value" data-stat="total">—</span>
+    </div>
+    <div class="card stat">
+        <span class="stat-label">فرص متاحة</span>
+        <span class="stat-value accent" data-stat="open">—</span>
+    </div>
+    <div class="card stat">
+        <span class="stat-label">زوّار آخر شهر</span>
+        <span class="stat-value" data-stat="visitors">—</span>
+    </div>
+    <div class="card stat">
+        <span class="stat-label">متوسط التفاعل</span>
+        <span class="stat-value" data-stat="engagement">—</span>
+    </div>
+</section>
+
+<section class="grid-2">
+    <div class="card">
+        <div class="card-head">
+            <h2>الزوّار شهريًا</h2>
+            <span class="muted">2025 — حتى الآن</span>
+        </div>
+        <canvas id="visitorsChart" height="150"></canvas>
+    </div>
+
+    <div class="card">
+        <div class="card-head">
+            <h2>الفرص حسب النوع</h2>
+        </div>
+        <canvas id="typeChart" height="150"></canvas>
+    </div>
+</section>
+
+<section class="grid-2">
+    <div class="card">
+        <div class="card-head">
+            <h2>متوسط التفاعل حسب المنصة</h2>
+        </div>
+        <canvas id="engagementChart" height="150"></canvas>
+    </div>
+
+    <div class="card">
+        <div class="card-head">
+            <h2>الأكثر مشاهدة</h2>
+        </div>
+        <div class="table-wrap">
+            <table class="data-table" id="topTable">
+                <thead>
+                    <tr>
+                        <th>الفرصة</th>
+                        <th>النوع</th>
+                        <th>الحالة</th>
+                        <th>المشاهدات</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="4" class="muted">جارٍ التحميل…</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/dashboard.js" asp-append-version="true"></script>
+}
