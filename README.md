@@ -1,4 +1,9 @@
 # English is Below
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1f1ec52-89b0-4201-ab44-4bfbc9cab5e0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e92f6e93-a2b8-49b6-a6c8-bdc44c375ba7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fc18fa8-8740-4616-b67c-3c9b630b422f" />
+
+
 # فرص خضراء — مساعد تحليلات ذكي بالذكاء الاصطناعي
 
 هذا المشروع هو تطبيق ويب داخلي لفريق **فرص خضراء**، وليس موجّهًا للمستخدمين النهائيين مباشرة.
